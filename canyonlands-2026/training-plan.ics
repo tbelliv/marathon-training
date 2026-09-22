@@ -1,0 +1,353 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Canyonlands 2026//Training Plan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Canyonlands Ultra — Training
+X-WR-TIMEZONE:America/Denver
+BEGIN:VTIMEZONE
+TZID:America/Denver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:339ceb83-c942-5c04-b0f8-bce5543af36e@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20260922T174500
+DTEND;TZID=America/Denver:20260922T190000
+SUMMARY:Atomic Track Club — 5:45 PM
+DESCRIPTION:~7.5 mi. Follow the coach's workout.
+END:VEVENT
+BEGIN:VEVENT
+UID:4f496318-cb21-5459-94c7-0330975ebbfe@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20260923T180000
+DTEND;TZID=America/Denver:20260923T190500
+SUMMARY:Roost loop — easy
+DESCRIPTION:6.4 mi\, genuinely easy\, HR under 140. Thursday track is 12 
+ h away — this is the run that has turned Tue–Wed–Thu into a 3-day 
+ stress block before.
+END:VEVENT
+BEGIN:VEVENT
+UID:40e90f85-8545-5deb-910c-be82e74803c9@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20260924T061500
+DTEND;TZID=America/Denver:20260924T073000
+SUMMARY:Atomic Track Club — 6:15 AM
+DESCRIPTION:~7.5 mi. Follow the coach's workout.
+END:VEVENT
+BEGIN:VEVENT
+UID:4f8c20d1-c39a-591c-8235-b8e3f4e6f6be@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20260924T173000
+DTEND;TZID=America/Denver:20260924T183000
+SUMMARY:Strength — light
+DESCRIPTION:Light session. Eccentric emphasis: step-downs\, split squats\
+ , single-leg RDL\, soleus.
+END:VEVENT
+BEGIN:VEVENT
+UID:e7f95413-ebbc-5222-a277-83719b19a0cc@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20260925T070000
+DTEND;TZID=America/Denver:20260925T074000
+SUMMARY:Easy 4
+DESCRIPTION:4 mi easy\, HR under 135.
+END:VEVENT
+BEGIN:VEVENT
+UID:b88f7ac8-b828-55b8-be67-0d68045e6598@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20260926T070000
+DTEND;TZID=America/Denver:20260926T075000
+SUMMARY:Easy 4 + strides
+DESCRIPTION:4 mi easy\, then 6 × 20 s strides (~5:50/mi) with a full min
+ ute between.
+END:VEVENT
+BEGIN:VEVENT
+UID:d0aca2ad-ad31-5f61-bf89-360e10268e78@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20260927T071500
+DTEND;TZID=America/Denver:20260927T094500
+SUMMARY:Long run 16–17 mi — last 6 at race effort
+DESCRIPTION:Rolling dirt\, 1\,500–2\,000 ft. First 10 easy\, last 6 at 
+ race effort = HR 150–156 (Boulder rolling dirt ~7:35–7:50/mi\, Neder
+ land 7:55–8:10\, Breck 8:05–8:20). Fuel 60–90 g carb/hr from the s
+ tart.
+END:VEVENT
+BEGIN:VEVENT
+UID:355d3a3e-5c87-565f-99a3-22a299cefc52@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20260928T173000
+DTEND;TZID=America/Denver:20260928T190000
+SUMMARY:Strength — full
+DESCRIPTION:Full session\, eccentric emphasis.
+END:VEVENT
+BEGIN:VEVENT
+UID:c21e82e8-50e6-5a23-af48-3b433fbe8d60@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20260929T174500
+DTEND;TZID=America/Denver:20260929T190000
+SUMMARY:Atomic Track Club — 5:45 PM
+DESCRIPTION:~7.5 mi. Follow the coach's workout.
+END:VEVENT
+BEGIN:VEVENT
+UID:b812a6d0-5a85-5888-9d6d-17b31755c242@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20260930T180000
+DTEND;TZID=America/Denver:20260930T190500
+SUMMARY:Roost loop — easy
+DESCRIPTION:6.4 mi\, genuinely easy\, HR under 140. Thursday track is 12 
+ h away — this is the run that has turned Tue–Wed–Thu into a 3-day 
+ stress block before.
+END:VEVENT
+BEGIN:VEVENT
+UID:da56b743-b109-5e63-a4ef-b3747455e18a@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261001T061500
+DTEND;TZID=America/Denver:20261001T073000
+SUMMARY:Atomic Track Club — 6:15 AM
+DESCRIPTION:~7.5 mi. Follow the coach's workout.
+END:VEVENT
+BEGIN:VEVENT
+UID:820ef1b8-6fac-59e4-a5da-ea68f5785565@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261001T173000
+DTEND;TZID=America/Denver:20261001T183000
+SUMMARY:Strength — light
+DESCRIPTION:Light session.
+END:VEVENT
+BEGIN:VEVENT
+UID:3b9ed838-683b-5243-8594-2f73ce82c93b@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261002T070000
+DTEND;TZID=America/Denver:20261002T074000
+SUMMARY:Easy 4
+DESCRIPTION:4 mi easy\, HR under 135.
+END:VEVENT
+BEGIN:VEVENT
+UID:69f83ce3-10db-57cd-b4b8-ee6c37731c59@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261003T070000
+DTEND;TZID=America/Denver:20261003T075000
+SUMMARY:Easy 4 + strides
+DESCRIPTION:4 mi easy\, then 6 × 20 s strides (~5:50/mi) with a full min
+ ute between. Lay out race kit tonight.
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe08311-b412-5c4b-815a-5f51c6b05571@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261004T070000
+DTEND;TZID=America/Denver:20261004T101500
+SUMMARY:DRESS REHEARSAL — 3:00–3:15 by time (~20 mi)
+DESCRIPTION:Rolling dirt\, 2\,000–2\,500 ft. ~55 min easy / 10 mi at ra
+ ce effort = HR 150–156 (Boulder rolling dirt ~7:35–7:50/mi\, Nederla
+ nd 7:55–8:10\, Breck 8:05–8:20) / ~50 min easy. Adios Pro 4\, race k
+ it\, race fuel 60–90 g/hr\, one flask from the start. Run a −5% desc
+ ent at 6:40–7:00 on purpose. Practice one 60 s stop then an immediate 
+ 9:00 climb.
+END:VEVENT
+BEGIN:VEVENT
+UID:cdab88e0-f6bf-53d6-ac44-3320efe20ed0@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261005T173000
+DTEND;TZID=America/Denver:20261005T190000
+SUMMARY:Strength — full — LAST HEAVY SESSION
+DESCRIPTION:19 days out. Thursdays stay light from here.
+END:VEVENT
+BEGIN:VEVENT
+UID:730f9eba-eb9f-509d-91b1-d5eafb206d41@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261006T174500
+DTEND;TZID=America/Denver:20261006T190000
+SUMMARY:Atomic Track Club — 5:45 PM
+DESCRIPTION:~7.5 mi. Follow the coach's workout.
+END:VEVENT
+BEGIN:VEVENT
+UID:9fd824c4-e19d-53c6-b776-0ebcc0503ca3@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261007T180000
+DTEND;TZID=America/Denver:20261007T190500
+SUMMARY:Roost loop — easy
+DESCRIPTION:6.4 mi\, genuinely easy\, HR under 140. Thursday track is 12 
+ h away — this is the run that has turned Tue–Wed–Thu into a 3-day 
+ stress block before.
+END:VEVENT
+BEGIN:VEVENT
+UID:05a3591d-8ab3-5b30-9ee0-52aa34452d83@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261008T061500
+DTEND;TZID=America/Denver:20261008T073000
+SUMMARY:Atomic Track Club — 6:15 AM
+DESCRIPTION:~7.5 mi. Follow the coach's workout.
+END:VEVENT
+BEGIN:VEVENT
+UID:e8d15687-7294-5ff7-ae37-a0d9b84ebada@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261008T173000
+DTEND;TZID=America/Denver:20261008T183000
+SUMMARY:Strength — light
+DESCRIPTION:Light session.
+END:VEVENT
+BEGIN:VEVENT
+UID:ce5e120a-863b-5457-b7bb-5ebf841769f0@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261009T070000
+DTEND;TZID=America/Denver:20261009T074000
+SUMMARY:Easy 4
+DESCRIPTION:4 mi easy\, HR under 135.
+END:VEVENT
+BEGIN:VEVENT
+UID:15963690-b384-54b5-b4b6-71b45e8ea486@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261010T070000
+DTEND;TZID=America/Denver:20261010T075000
+SUMMARY:Easy 4 + strides
+DESCRIPTION:4 mi easy\, then 6 × 20 s strides (~5:50/mi) with a full min
+ ute between.
+END:VEVENT
+BEGIN:VEVENT
+UID:6e80e1ac-797b-5666-ad40-e86aadf1a236@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261011T071500
+DTEND;TZID=America/Denver:20261011T092500
+SUMMARY:LAST LONG RUN — 15 mi\, 8 at race effort
+DESCRIPTION:Rolling dirt\, ~1\,500 ft. 6 easy / 8 at race effort = HR 150
+ –156 (Boulder rolling dirt ~7:35–7:50/mi\, Nederland 7:55–8:10\, B
+ reck 8:05–8:20) / 1 easy. Same shoes and fuel as Oct 4. Nothing new af
+ ter today.
+END:VEVENT
+BEGIN:VEVENT
+UID:7b49fa77-472c-56fc-b103-9bc849413357@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261012T173000
+DTEND;TZID=America/Denver:20261012T183000
+SUMMARY:Strength — light
+DESCRIPTION:Maintenance only. Taper starts today.
+END:VEVENT
+BEGIN:VEVENT
+UID:53d4275c-45f6-5f84-b021-cf9934b2b08e@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261013T174500
+DTEND;TZID=America/Denver:20261013T184500
+SUMMARY:Atomic Track Club — TAPER (warm-up + half set)
+DESCRIPTION:~5 mi. Warm-up\, about half of the coach's main set\, cool-do
+ wn. Keep the speed\, cut the volume.
+END:VEVENT
+BEGIN:VEVENT
+UID:823bccb6-29e8-5337-aeb5-6f9746776ac0@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261014T180000
+DTEND;TZID=America/Denver:20261014T184500
+SUMMARY:Easy 5
+DESCRIPTION:5 mi easy\, HR under 140.
+END:VEVENT
+BEGIN:VEVENT
+UID:92926502-59b5-537f-a7b4-670082f7cfea@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261015T061500
+DTEND;TZID=America/Denver:20261015T071500
+SUMMARY:Atomic Track Club — TAPER (warm-up + half set)
+DESCRIPTION:~5 mi. Warm-up\, half the set\, cool-down.
+END:VEVENT
+BEGIN:VEVENT
+UID:4a704891-6c29-55ff-864f-63953639eb20@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261015T173000
+DTEND;TZID=America/Denver:20261015T181500
+SUMMARY:Strength — very light or skip
+DESCRIPTION:Optional.
+END:VEVENT
+BEGIN:VEVENT
+UID:b75193e6-6a5e-5979-817e-436a4821495f@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261016T070000
+DTEND;TZID=America/Denver:20261016T073000
+SUMMARY:Easy 3
+DESCRIPTION:3 mi easy\, HR under 135.
+END:VEVENT
+BEGIN:VEVENT
+UID:8c73fdff-59cd-54f8-ba8d-da751d72c94a@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261017T070000
+DTEND;TZID=America/Denver:20261017T075000
+SUMMARY:Easy 4 + strides
+DESCRIPTION:4 mi easy\, then 6 × 20 s strides (~5:50/mi) with a full min
+ ute between.
+END:VEVENT
+BEGIN:VEVENT
+UID:7fd59919-bb62-5dde-b20f-aeae1a7fc75d@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261018T071500
+DTEND;TZID=America/Denver:20261018T090000
+SUMMARY:10 easy + 3 at race effort
+DESCRIPTION:10 mi easy\, then 3 at race effort = HR 150–156 (Boulder ro
+ lling dirt ~7:35–7:50/mi\, Nederland 7:55–8:10\, Breck 8:05–8:20).
+  Six days out — a reminder\, not a workout.
+END:VEVENT
+BEGIN:VEVENT
+UID:357ecccd-6289-5f0d-9e7c-5e1979c17ffd@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261019T173000
+DTEND;TZID=America/Denver:20261019T181500
+SUMMARY:Strength — very light\, upper/core — LAST ONE
+DESCRIPTION:Upper body and core only. Nothing after today.
+END:VEVENT
+BEGIN:VEVENT
+UID:42962d61-7c09-5577-b6de-c02ac44b52db@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261020T174500
+DTEND;TZID=America/Denver:20261020T183500
+SUMMARY:Atomic Track Club — RACE WEEK (skip the set)
+DESCRIPTION:~5 mi. Warm-up with the group\, 4 × 1 min at race effort wit
+ h 2 min easy between\, cool-down. Skip the coach's main set.
+END:VEVENT
+BEGIN:VEVENT
+UID:820a1aa9-a3cf-5c14-97b8-2fb5c38946b2@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261021T070000
+DTEND;TZID=America/Denver:20261021T074000
+SUMMARY:Easy 4
+DESCRIPTION:4 mi easy\, HR under 135.
+END:VEVENT
+BEGIN:VEVENT
+UID:163e9792-cdac-5e19-8777-3e87014ce9f6@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261022T061500
+DTEND;TZID=America/Denver:20261022T065500
+SUMMARY:Atomic Track Club — RACE WEEK (warm-up + strides only)
+DESCRIPTION:~3 mi. Warm-up with the group\, 4 × 20 s strides\, cool-down
+ . No set. No strength tonight.
+END:VEVENT
+BEGIN:VEVENT
+UID:2ec4f86f-ac0a-591a-8b6a-9a5c3c80a55e@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261023T080000
+DTEND;TZID=America/Denver:20261023T083000
+SUMMARY:Moab shakeout — first mile of the course
+DESCRIPTION:2 mi very easy\, out and back on the first mile. Feel the san
+ dy top layer in the race shoes. Drop the Rocket X Trail bag at The Pit.
+END:VEVENT
+BEGIN:VEVENT
+UID:49443454-12bf-530f-8f99-c14c67768fe0@canyonlands2026
+DTSTAMP:20260922T203638Z
+DTSTART;TZID=America/Denver:20261024T070000
+DTEND;TZID=America/Denver:20261024T103000
+SUMMARY:RACE — Canyonlands Ultra Marathon — 3:20
+DESCRIPTION:7 AM start. Skip Buttes. Mile 2 at 9:25\, let the field go. M
+ iles 10–11 at 7:03 / 6:38. The Pit ~57:30\, Oasis ~2:04:50\, The Pit ~
+ 2:44:00\, 60 s each. Climbs HR ≤158\, rollers 150–156\, descents 143
+ –148. Gels at 9\, 14\, 19\, 23. Oasis decision: on plan → run it\; >
+ 2 min back → 8:00–8:15 home. Adios Pro 4.
+END:VEVENT
+END:VCALENDAR
