@@ -1,47 +1,48 @@
 # Canyonlands Ultra — Pace Plan
 
-**Saturday, October 24, 2026 · 7:00 AM · 25.99 mi · 2,415 ft ↑ / 2,418 ft ↓**
+**Saturday, October 24, 2026 · 7:00 AM · 25.99 mi · ~2,400 ft ↑ / ↓**
 
 **Target: 3:20:00** = 3:17:00 moving + 3 aid stops × 60 s
-Model: Strava-only grade cost, `hybrid` race type, `runningworkbench/calculator.py`
+Model: ultraPacer distribution (plan 1.0), rescaled — Buttes delay removed, stops at The Pit / Oasis / The Pit added.
 Shoes: Adidas Adios Pro 4 · Drop bag at The Pit: Hoka Rocket X Trail
+Loaded in COROS as the Oct 24 workout **"Claude Coach Moab Marathon"** (one section per mile, ±10 s/mi window).
 
 ## Aid stations
 
 | Stop | Mile | Arrive | Depart | Do |
 |---|---|---|---|---|
-| ~~Buttes~~ | 4.8 | 36:46 | — | **Skip.** One flask from the gun, drink to thirst |
-| The Pit | 7.7 | **58:11** | 59:11 | Fill both flasks. Gel in hand for mile 9 |
-| Oasis | 16.2 | **2:03:25** | 2:04:25 | Fill both. Longest dry stretch is behind you |
-| The Pit | 21.2 | **2:42:16** | 2:43:16 | One flask. Fluid *before* the climb, not on it |
+| ~~Buttes~~ | 4.8 | 37:22 | — | **Skip.** One flask from the gun, drink to thirst |
+| The Pit | 7.7 | **57:33** | 58:33 | Fill both flasks. Gel in hand for mile 9 |
+| Oasis | 16.2 | **2:03:46** | 2:04:46 | Fill both. Longest dry stretch is behind you |
+| The Pit | 21.2 | **2:42:44** | 2:43:44 | One flask. Fluid *before* the climb, not on it |
 | Finish | 26.0 | **3:20:00** | | |
 
 ## By mile (clock time, stops included)
 
-| Mi | Split | Clock | Elev | | Mi | Split | Clock | Elev |
+| Mi | Grade | Split | Clock | | Mi | Grade | Split | Clock |
 |---|---|---|---|---|---|---|---|---|
-| 1 | 7:38 | 7:38 | +67 | | 14 | 7:57 | 1:46:02 | +168 |
-| **2** | **8:21** | 15:59 | +331 | | 15 | 8:03 | 1:54:06 | +234 |
-| 3 | 7:18 | 23:18 | −116 | | 16 | 8:06 | 2:02:12 | +258 |
-| 4 | 7:24 | 30:42 | −48 | | 17 | 8:04 | 2:11:17 | +214 |
-| 5 | 7:29 | 38:12 | −16 | | 18 | 7:33 | 2:18:50 | −15 |
-| 6 | 7:22 | 45:34 | −46 | | 19 | 7:21 | 2:26:12 | −129 |
-| 7 | 7:12 | 52:47 | −185 | | 20 | 7:16 | 2:33:29 | −114 |
-| 8 | 7:30 | 1:01:18 | −44 | | 21 | 7:23 | 2:40:53 | 0 |
-| 9 | 7:48 | 1:09:06 | +142 | | **22** | **8:08** | 2:50:01 | +261 |
-| **10** | **7:13** | 1:16:19 | −269 | | 23 | 7:35 | 2:57:37 | +95 |
-| **11** | **7:06** | 1:23:26 | −286 | | 24 | 7:15 | 3:04:52 | −117 |
-| **12** | **7:15** | 1:30:41 | −219 | | 25 | 7:11 | 3:12:04 | −170 |
-| 13 | 7:22 | 1:38:04 | −75 | | 26 | 7:36 | 3:19:41 | +90 |
+| 1 | +1.3% | 8:04 | 8:04 | | 14 | +3.6% | 8:46 | 1:45:05 |
+| **2** | **+6.4%** | **9:32** | 17:36 | | 15 | +4.5% | 8:16 | 1:53:21 |
+| 3 | −2.3% | 6:53 | 24:29 | | 16 | +5.0% | 9:06 | 2:02:27 |
+| 4 | −0.9% | 7:01 | 31:30 | | 17 | +3.8% | 8:45 | 2:12:12 |
+| 5 | −0.3% | 7:14 | 38:44 | | 18 | −0.9% | 7:30 | 2:19:42 |
+| 6 | −0.8% | 7:07 | 45:51 | | 19 | −2.3% | 7:25 | 2:27:07 |
+| 7 | −3.7% | 6:34 | 52:25 | | 20 | −2.0% | 6:45 | 2:33:52 |
+| 8 | −0.6% | 7:08 | 1:00:33 | | 21 | −0.1% | 7:19 | 2:41:11 |
+| 9 | +2.6% | 8:17 | 1:08:50 | | **22** | **+5.1%** | **9:08** | 2:51:19 |
+| **10** | **−5.2%** | **6:53** | 1:15:43 | | 23 | +1.6% | 7:28 | 2:58:47 |
+| **11** | **−5.7%** | **6:11** | 1:21:54 | | 24 | −2.2% | 6:49 | 3:05:36 |
+| 12 | −3.7% | 7:14 | 1:29:08 | | 25 | −3.1% | 6:40 | 3:12:16 |
+| 13 | −1.5% | 7:11 | 1:36:19 | | 26 | +1.5% | 7:44 | 3:20:00 |
 
-Range 7:06–8:21. Flat-equivalent base 7:29/mi.
+Range 6:11–9:32. Moving average 7:35.
 
 ## The four miles that decide it
 
-- **Mile 2 — 8:21.** 453 ft climb at 6.4%. Everyone around you will go up it at 7:30. Let them.
-- **Miles 10–12 — 7:13 / 7:06 / 7:15.** The descent to the low point. COROS's planner (Minetti) will ask for ~5:15. Don't. Let HR fall to 143–148.
-- **Miles 14–17 — 7:57–8:06.** 1,070 ft segment, two steep climbs back to back. This is the race.
-- **Mile 22 — 8:08.** 367 ft climb starting 100 m after the aid station. Restart at effort, not pace.
+- **Mile 2 — 9:32.** 453 ft climb at 6.4%. Everyone around you will go up it at 7:30. Let them.
+- **Miles 10–11 — 6:53 / 6:11.** The descent to the low point. Run it clean — no braking, no chasing. This is the fastest the plan asks you to run all day; it's also where the quads get spent if you overcook it. HR should fall to 143–148.
+- **Miles 14–17 — 8:16–9:06.** 1,070 ft segment, two steep climbs back to back. This is the race.
+- **Mile 22 — 9:08.** 367 ft climb starting 100 m after the aid station. Restart at effort, not pace.
 
 ## Guardrails
 
@@ -51,14 +52,14 @@ Range 7:06–8:21. Flat-equivalent base 7:29/mi.
 
 ## Decision points
 
-**The Pit, 7.7 — target 58:11.** On plan between 57:30 and 59:30. Under 57:00 means mile 2 was too hard: back off 10 s/mi through mile 9.
+**The Pit, 7.7 — target 57:33.** On plan between 57:00 and 58:30. Under 56:30 means mile 2 was too hard: back off 10 s/mi through mile 9.
 
-**Oasis, 16.2 — target 2:03:25.** The real checkpoint.
+**Oasis, 16.2 — target 2:03:46.** The real checkpoint.
 - On plan or ahead → run the back 10 as written. A-goal (3:14–3:17) is live from here, not before.
 - 1–2 min behind → hold the plan. Finish 3:21–3:22.
 - >2 min behind → 8:00–8:15 to the finish, HR ≤152. Finish ~3:27. CR by 23 min. Do not buy time back on mile 22.
 
-**The Pit, 21.2 — target 2:42:16.** From here: 4.8 mi, one climb. Anything under 8:40/mi is the record.
+**The Pit, 21.2 — target 2:42:44.** From here: 4.8 mi, one climb. Anything under 8:40/mi is the record.
 
 ## Goal ladder
 
