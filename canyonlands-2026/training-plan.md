@@ -6,7 +6,7 @@ Tuesday 5:45 PM and Thursday 6:15 AM are **Atomic Track Club** sessions (~7.5 mi
 
 ## Race-effort targets
 
-HR 156–163 (race cruise band; threshold 175), or by venue (flat-equivalent base 7:29/mi):
+HR 156–163 (race cruise band; threshold 172–175: 175 at sea level, 172–174 at Boulder/Moab altitude), or by venue (flat-equivalent base 7:29/mi):
 
 | Venue | Rolling-dirt pace |
 |---|---|
