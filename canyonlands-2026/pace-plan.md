@@ -46,7 +46,7 @@ Average 7:35. Range 6:10–9:31. Arrival times MDT, from ultraPacer.
 
 ## Guardrails
 
-- **HR bands (threshold 175, resting 49):** whole-race average 160–163. Basis, from every COROS heart-rate file since the record began (May 2025): max 186 in the Falmouth Road Race (Aug 2025, 176 avg for 53 min, 179 best 30 min); best 60-min 162 and best 90-min 161 (Nederland, Sep 13 2026); best 120-min 157 (Breckenridge, Aug 30 2026). Strava holds no heart-rate data before the COROS watch. HR beats pace on the sandy stretches. Judge climbs on a 3-min average, not the instant reading.
+- **HR bands (threshold 172–175: 175 at sea level from Falmouth, 172–174 at Moab altitude; COROS reads 172, max 192, resting 47):** whole-race average 158–162; 163 is the cruise ceiling, not a place to sit. Basis, from every COROS heart-rate file since the record began (May 2025): max 186 in the Falmouth Road Race (Aug 2025, 176 avg for 53 min, 179 best 30 min); best 60-min 162 and best 90-min 161 (Nederland, Sep 13 2026); best 120-min 157 (Breckenridge, Aug 30 2026). Strava holds no heart-rate data before the COROS watch. HR beats pace on the sandy stretches. Judge climbs on a 3-min average, not the instant reading.
 
 | Segment | Sit in | Ceiling |
 |---|---|---|
