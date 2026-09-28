@@ -40,13 +40,23 @@ Average 7:35. Range 6:10–9:31. Arrival times MDT, from ultraPacer.
 ## The four miles that decide it
 
 - **Mile 2 — 9:31.** 453 ft climb at 6.4%. Everyone around you will go up it at 7:30. Let them.
-- **Miles 10–11 — 6:53 / 6:10.** The descent to the low point. Run it clean — no braking, no chasing. Fastest miles of the day; HR should fall to 143–148.
+- **Miles 10–11 — 6:53 / 6:10.** The descent to the low point. Run it clean — no braking, no chasing. Fastest miles of the day; HR should fall to 148–153.
 - **Miles 14–17 — 8:15–9:05.** 1,070 ft segment, two steep climbs back to back. This is the race.
 - **Mile 22 — 9:07.** 367 ft climb starting 100 m after the aid station. Restart at effort, not pace.
 
 ## Guardrails
 
-- **HR:** climbs ≤158 · rollers 150–156 · descents 143–148. HR beats pace on the sandy stretches.
+- **HR bands (threshold 175, resting 49):** whole-race average 160–163. HR beats pace on the sandy stretches. Judge climbs on a 3-min average, not the instant reading.
+
+| Segment | Sit in | Ceiling |
+|---|---|---|
+| Start → Buttes, mi 0–5 | 152–158 | 162 |
+| Buttes → Oasis, mi 5–16 | 156–163 | 166 (168 briefly on the mile 14–16 climbs) |
+| Oasis → The Pit, mi 16–21 | 158–165 | 168 |
+| The Pit → finish, GO | 165–175 | 178 |
+| The Pit → finish, HOLD | 158–163 | 166 |
+
+  Descents (miles 10–12, 24–25): 148–153. Threshold (175) is the GO ceiling from The Pit and nothing before it. Drift of 3–5% at fixed pace after 2 h is expected: 158 at mile 8 and 165 at mile 20 are the same effort.
 - **Fuel:** 60–90 g carb/hr from mile 0. Gels at miles 9, 14, 19, 23 — before each climb.
 - **Hydration:** one 500 ml flask from the start. Both flasks at The Pit and Oasis. One at The Pit (2nd).
 
@@ -57,9 +67,15 @@ Average 7:35. Range 6:10–9:31. Arrival times MDT, from ultraPacer.
 **Oasis, 16.2 — ~9:04 AM.** The real checkpoint.
 - On plan or ahead → run the back 10 as written. A-goal (3:14–3:17) is live from here, not before.
 - 1–2 min behind → hold the plan. Finish 3:21–3:22.
-- >2 min behind → 8:00–8:15 to the finish, HR ≤152. Finish ~3:27. CR by 23 min. Do not buy time back on mile 22.
+- >2 min behind → 8:00–8:15 to the finish, HR ≤158. Finish ~3:27. CR by 23 min. Do not buy time back on mile 22.
 
-**The Pit, 21.2 — ~9:44 AM.** From here: 4.8 mi, one climb. Anything under 8:40/mi is the record.
+**The Pit, 21.2 — ~9:44 AM. The determination line.** From here: 4.8 mi, one climb. Anything under 8:40/mi is the record. Four checks, all must pass for GO:
+1. On plan pace at HR ≤162 on miles 18–20.
+2. No quad grab on the mile 16–17 descent.
+3. The mile-19 gel went down.
+4. Cadence 173+.
+
+GO → 165–175 to the line, ceiling 178 on the mile 22 climb. HOLD → 158–163, ceiling 166.
 
 ## Goal ladder
 

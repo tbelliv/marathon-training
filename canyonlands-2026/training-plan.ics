@@ -152,7 +152,7 @@ DTEND;TZID=America/Denver:20261004T101500
 SUMMARY:DRESS REHEARSAL — Doudy Draw loop ×2\, opposite rotations (20 mi)
 DESCRIPTION:Marshall Mesa / Doudy Draw loop x2 from Doudy Draw TH (oct4-reh
  earsal.gpx)\, 20.1 mi\, ~1\,750 ft. Lap 1 easy HR 125–145: loop CLOCKWIS
- E (backwards). 60 s stop at the car. Lap 2 race effort HR 150–156 (7:35
+ E (backwards). 60 s stop at the car. Lap 2 race effort HR 156–163 (7:35
  –7:50): loop COUNTER-CLOCKWISE (as published) — 2-mi climb off the sto
  p\, miles 9–10 descent at capped pace\, matches the Canyonlands finish. 
  Adios Pro 4\, race kit\, race fuel 60–90 g/hr\, one flask from the start
@@ -292,7 +292,7 @@ DTSTAMP:20260922T203638Z
 DTSTART;TZID=America/Denver:20261018T071500
 DTEND;TZID=America/Denver:20261018T090000
 SUMMARY:10 easy + 3 at race effort
-DESCRIPTION:10 mi easy\, then 3 at race effort = HR 150–156 (Boulder ro
+DESCRIPTION:10 mi easy\, then 3 at race effort = HR 156–163 (Boulder ro
  lling dirt ~7:35–7:50/mi\, Nederland 7:55–8:10\, Breck 8:05–8:20).
   Six days out — a reminder\, not a workout.
 END:VEVENT
@@ -345,10 +345,15 @@ DTSTAMP:20260922T203638Z
 DTSTART;TZID=America/Denver:20261024T070000
 DTEND;TZID=America/Denver:20261024T103000
 SUMMARY:RACE — Canyonlands Ultra Marathon — 3:20
-DESCRIPTION:7 AM start. Skip Buttes. Mile 2 at 9:25\, let the field go. M
- iles 10–11 at 7:03 / 6:38. The Pit ~57:30\, Oasis ~2:04:50\, The Pit ~
- 2:44:00\, 60 s each. Climbs HR ≤158\, rollers 150–156\, descents 143
- –148. Gels at 9\, 14\, 19\, 23. Oasis decision: on plan → run it\; >
- 2 min back → 8:00–8:15 home. Adios Pro 4.
+DESCRIPTION:7 AM start. Skip Buttes. Mile 2 at 9:25\, let the field go. Mil
+ es 10–11 at 7:03 / 6:38. The Pit ~57:30\, Oasis ~2:04:50\, The Pit ~2:44
+ :00\, 60 s each. HR bands (threshold 175): mi 0–5 sit 152–158 (ceiling
+  162)\; mi 5–16 156–163 (166\, 168 briefly on climbs)\; mi 16–21 158
+ –165 (168)\; descents 148–153\; whole-race avg 160–163. The Pit 21.2
+  = determination line: GO if on pace at ≤162 on mi 18–20\, no quad gra
+ b\, mile-19 gel down\, cadence 173+ → 165–175 to the line (178 on the 
+ mile 22 climb). HOLD → 158–163. Gels at 9\, 14\, 19\, 23. Oasis decisi
+ on: on plan → run it\; >2 min back → 8:00–8:15 home\, HR ≤158. Adi
+ os Pro 4.
 END:VEVENT
 END:VCALENDAR

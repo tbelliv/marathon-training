@@ -6,7 +6,7 @@ Tuesday 5:45 PM and Thursday 6:15 AM are **Atomic Track Club** sessions (~7.5 mi
 
 ## Race-effort targets
 
-HR 150–156, or by venue (flat-equivalent base 7:29/mi):
+HR 156–163 (race cruise band; threshold 175), or by venue (flat-equivalent base 7:29/mi):
 
 | Venue | Rolling-dirt pace |
 |---|---|
@@ -47,7 +47,7 @@ HR 150–156, or by venue (flat-equivalent base 7:29/mi):
 | Thu 1 | Atomic Track Club · Strength light |
 | Fri 2 | 4 easy |
 | Sat 3 | 4 easy + strides |
-| Sun 4 | **DRESS REHEARSAL — Marshall Mesa / Doudy Draw loop ×2, opposite rotations** (`oct4-rehearsal.gpx`): 20.1 mi, ~1,750 ft, 87 ft/mi, 5,660–6,230 ft. Park at Doudy Draw TH. **Lap 1 easy, HR 125–145: the loop CLOCKWISE** (backwards from the published direction). **60 s stop at the car.** **Lap 2 at race effort, HR 150–156 (7:35–7:50): the loop COUNTER-CLOCKWISE** (as published) — 2-mi climb off the stop, miles 9–10 descent at capped pace, matching the Canyonlands finish. Adios Pro 4, race kit, race fuel 60–90 g/hr, one flask start |
+| Sun 4 | **DRESS REHEARSAL — Marshall Mesa / Doudy Draw loop ×2, opposite rotations** (`oct4-rehearsal.gpx`): 20.1 mi, ~1,750 ft, 87 ft/mi, 5,660–6,230 ft. Park at Doudy Draw TH. **Lap 1 easy, HR 125–145: the loop CLOCKWISE** (backwards from the published direction). **60 s stop at the car.** **Lap 2 at race effort, HR 156–163 (7:35–7:50): the loop COUNTER-CLOCKWISE** (as published) — 2-mi climb off the stop, miles 9–10 descent at capped pace, matching the Canyonlands finish. Adios Pro 4, race kit, race fuel 60–90 g/hr, one flask start |
 
 ## W3 · Oct 5–11 · ~44 mi
 
