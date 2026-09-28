@@ -47,7 +47,7 @@ HR 150–156, or by venue (flat-equivalent base 7:29/mi):
 | Thu 1 | Atomic Track Club · Strength light |
 | Fri 2 | 4 easy |
 | Sat 3 | 4 easy + strides |
-| Sun 4 | **DRESS REHEARSAL — two different loops from the Doudy Draw TH** (`oct4-rehearsal.gpx`), ~22.6 mi, ~2,350 ft. **Lap 1 easy, HR 125–145:** 0.4 mi to the junction, the AllTrails Marshall Mesa/Dowdy Draw loop round, back to the car (~12.6 mi, gentle). **60 s stop at the car.** **Lap 2 at race effort, HR 150–156 (7:35–7:50):** the MTB Project loop (10 mi, 87 ft/mi) — 2-mi climb off the stop, miles 9–10 descent at capped pace. Adios Pro 4, race kit, race fuel 60–90 g/hr, one flask start |
+| Sun 4 | **DRESS REHEARSAL — two different loops from the Doudy Draw TH** (`oct4-rehearsal.gpx`), 23.0 mi, ~1,600 ft. **Lap 1 easy, HR 125–145:** 0.4 mi to the junction, the AllTrails Marshall Mesa/Dowdy Draw loop round, back to the car (~13 mi, gentle). **60 s stop at the car.** **Lap 2 at race effort, HR 150–156 (7:35–7:50):** the MTB Project loop (10 mi, 87 ft/mi) — 2-mi climb off the stop, miles 9–10 descent at capped pace. Adios Pro 4, race kit, race fuel 60–90 g/hr, one flask start |
 
 ## W3 · Oct 5–11 · ~44 mi
 
