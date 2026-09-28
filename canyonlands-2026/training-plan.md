@@ -47,7 +47,7 @@ HR 150–156, or by venue (flat-equivalent base 7:29/mi):
 | Thu 1 | Atomic Track Club · Strength light |
 | Fri 2 | 4 easy |
 | Sat 3 | 4 easy + strides |
-| Sun 4 | **DRESS REHEARSAL. 3:00–3:15 by time (~20 mi), 2,000–2,500 ft.** ~55 min easy / 10 mi at race effort / ~50 min easy. Adios Pro 4, race kit, race fuel, one flask start. Run a −5% descent at 7:06–7:15 on purpose. Practice a 60 s stop → immediate 8:00 climb |
+| Sun 4 | **DRESS REHEARSAL — Marshall Mesa / Doudy Draw loop ×2** (`oct4-rehearsal.gpx`): 20.1 mi, ~1,750 ft, 87 ft/mi, 5,660–6,230 ft. Park at Doudy Draw TH. **Lap 1 easy, HR 125–145. 60 s stop at the car. Lap 2 at race effort, HR 150–156 (7:35–7:50)** — opens with a 2-mi climb off the stop, closes with the miles 9–10 descent at capped pace. Adios Pro 4, race kit, race fuel 60–90 g/hr, one flask start |
 
 ## W3 · Oct 5–11 · ~44 mi
 
