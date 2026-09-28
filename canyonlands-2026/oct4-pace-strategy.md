@@ -1,50 +1,35 @@
-# Oct 4 rehearsal — COROS pace strategy inputs
+# Oct 4 rehearsal — COROS pace strategy inputs (route miles)
 
-Route: `oct4-rehearsal.gpx` (20.1 mi). Grade model: Strava GAP (runningworkbench `calculator.py`, hybrid surface). Enter in the COROS app: Routes → import the GPX → Pace Strategy → set the total time, then adjust the per-mile targets below. Heart rate is the governor; these paces are the readout to expect.
+Route: `oct4-rehearsal.gpx`, 20.1 mi, miles numbered as the app will number them (cumulative). Grade model: Strava GAP (runningworkbench `calculator.py`, hybrid surface). Lap 1 at a 9:00 average, the 60 s stop at the car folded into route mile 11, lap 2 at a 7:40 average. Heart rate is the governor; these paces are the readout to expect.
 
+**Total time to enter: 2:47:57.**
 
-## Lap 1 — easy, clockwise, HR 125–145
-
-Any pace that keeps HR under 145 is right; these are what 9:00/mi average looks like on this profile.
-
-| Mile | Target | Elapsed (lap) | Elev |
-|---|---|---|---|
-| 1 | 09:29 | 0:09:29 | +218 ft |
-| 2 | 09:28 | 0:18:57 | +211 ft |
-| 3 | 08:46 | 0:27:44 | -110 ft |
-| 4 | 09:10 | 0:36:54 | +139 ft |
-| 5 | 08:55 | 0:45:50 | +13 ft |
-| 6 | 08:41 | 0:54:31 | -182 ft |
-| 7 | 09:18 | 1:03:50 | +162 ft |
-| 8 | 09:03 | 1:12:54 | +45 ft |
-| 9 | 08:24 | 1:21:18 | -259 ft |
-| 10 | 08:28 | 1:29:47 | -231 ft |
-| 11 | 00:28 (partial) | 1:30:15 | -5 ft |
-
-Lap total: 1:30:15
-
-## Lap 2 — race effort, counter-clockwise
-
-Target 7:40/mi average (1:17 for the lap). ultraPacer race average is 7:35; this loop is single-track, so 7:40 is the same effort.
-
-| Mile | Target | Elapsed (lap) | Elev | HR band | Do |
+| Route mile | Target | Elapsed | Elev | HR band | Do |
 |---|---|---|---|---|---|
-| 1 | 08:04 | 0:08:04 | +215 ft | 156–168 | climb off the stop = mile 22 |
-| 2 | 08:14 | 0:16:19 | +267 ft | 156–168 | climb, same effort |
-| 3 | 07:35 | 0:23:54 | -20 ft | 156–163 | settle into cruise |
-| 4 | 07:16 | 0:31:10 | -181 ft | 148–158 | descent, no braking |
-| 5 | 07:56 | 0:39:07 | +180 ft | 156–168 | climb = miles 14–16 |
-| 6 | 07:37 | 0:46:44 | +2 ft | 156–163 | cruise, cadence 173+ |
-| 7 | 07:24 | 0:54:09 | -138 ft | 150–160 | descent, gel |
-| 8 | 07:43 | 1:01:53 | +106 ft | 156–165 | late band = miles 18–20, GO check ≤162 |
-| 9 | 07:22 | 1:09:15 | -197 ft | 148–158 | descent, cap 7:00–7:15 = miles 10–11 |
-| 10 | 07:12 | 1:16:28 | -231 ft | 148–158 | descent to the car, same cap |
-| 11 | 00:24 (partial) | 1:16:52 | -6 ft | 148–158 | finish |
+| 1 | 09:29 | 0:09:29 | +218 ft | 125–145 | lap 1 easy, clockwise |
+| 2 | 09:28 | 0:18:57 | +211 ft | 125–145 | lap 1 easy, clockwise |
+| 3 | 08:46 | 0:27:43 | -110 ft | 125–145 | lap 1 easy, clockwise |
+| 4 | 09:10 | 0:36:53 | +139 ft | 125–145 | lap 1 easy, clockwise |
+| 5 | 08:55 | 0:45:48 | +13 ft | 125–145 | lap 1 easy, clockwise |
+| 6 | 08:41 | 0:54:29 | -182 ft | 125–145 | lap 1 easy, clockwise |
+| 7 | 09:18 | 1:03:47 | +162 ft | 125–145 | lap 1 easy, clockwise |
+| 8 | 09:03 | 1:12:50 | +45 ft | 125–145 | lap 1 easy, clockwise |
+| 9 | 08:24 | 1:21:14 | -259 ft | 125–145 | lap 1 easy, clockwise |
+| 10 | 08:28 | 1:29:42 | -231 ft | 125–145 | lap 1 easy, clockwise |
+| 11 | 08:04 | 1:39:14 | +215 ft | 156–168 | climb off the stop = race mile 22 |
+| 12 | 08:14 | 1:47:28 | +267 ft | 156–168 | climb, same effort, no chasing |
+| 13 | 07:35 | 1:55:03 | -20 ft | 156–163 | settle into cruise |
+| 14 | 07:16 | 2:02:19 | -181 ft | 148–158 | descent, no braking |
+| 15 | 07:56 | 2:10:15 | +180 ft | 156–168 | climb = race miles 14–16 |
+| 16 | 07:37 | 2:17:52 | +2 ft | 156–163 | cruise, cadence 173+ |
+| 17 | 07:24 | 2:25:16 | -138 ft | 150–160 | descent, gel |
+| 18 | 07:43 | 2:32:59 | +106 ft | 156–165 | late band = race miles 18–20, GO check ≤162 |
+| 19 | 07:22 | 2:40:21 | -197 ft | 148–158 | descent, cap 7:00–7:15 = race miles 10–11 |
+| 20 | 07:12 | 2:47:33 | -231 ft | 148–158 | descent to the car, same cap |
+| 21 (partial) | 00:24 (partial) | 2:47:57 | -6 ft | 148–158 | finish |
 
-Lap total: 1:16:52
-
-## Whole route
-
-- Lap 1 ≈ 1:30, stop 1:00, lap 2 ≈ 1:17. **Total target for the COROS strategy: 2:48:07.**
-- If the app only takes one total time, enter that and drag lap 1 slower and lap 2 faster until the mile targets match the tables.
-- The watch workout card (HR bands per mile) and the route waypoints already carry the bands; the pace strategy is the pace overlay.
+Notes
+- Lap 1 ends at 10.03 mi, so the lap-2 profile is shifted 0.03 mi (about 15 s) later than the route-mile boundaries. Within the noise of GPS mile alerts.
+- Route mile 11 includes the 60 s stop; its moving target is 8:04, the split the watch shows will be about 9:04.
+- Lap 2 is 7:40 average rather than the race 7:35 because this loop is single-track; same effort, five seconds slower.
+- The workout card carries the same bands per mile and the route waypoints name them at each lap-2 mile.
