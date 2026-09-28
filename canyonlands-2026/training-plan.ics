@@ -225,10 +225,11 @@ DTSTAMP:20260922T203638Z
 DTSTART;TZID=America/Denver:20261011T071500
 DTEND;TZID=America/Denver:20261011T092500
 SUMMARY:LAST LONG RUN — 15 mi\, 8 at race effort
-DESCRIPTION:Rolling dirt\, ~1\,500 ft. 6 easy / 8 at race effort = HR 150
- –156 (Boulder rolling dirt ~7:35–7:50/mi\, Nederland 7:55–8:10\, B
- reck 8:05–8:20) / 1 easy. Same shoes and fuel as Oct 4. Nothing new af
- ter today.
+DESCRIPTION:Rolling dirt\, ~1\,500 ft. 6 easy (HR 125–145) / 60 s stop / 
+ 8 at race effort walking the race-day HR bands in order: mi 1–2 152–15
+ 8\, mi 3–6 156–163\, mi 7–8 158–165 (on pace at ≤162 here = GO o
+ n race day) / 1 easy. Expect ~7:35–7:50/mi on Boulder rolling dirt. Same
+  shoes and fuel as Oct 4. Nothing new after today.
 END:VEVENT
 BEGIN:VEVENT
 UID:7b49fa77-472c-56fc-b103-9bc849413357@canyonlands2026
@@ -294,9 +295,9 @@ DTSTAMP:20260922T203638Z
 DTSTART;TZID=America/Denver:20261018T071500
 DTEND;TZID=America/Denver:20261018T090000
 SUMMARY:10 easy + 3 at race effort
-DESCRIPTION:10 mi easy\, then 3 at race effort = HR 156–163 (Boulder ro
- lling dirt ~7:35–7:50/mi\, Nederland 7:55–8:10\, Breck 8:05–8:20).
-  Six days out — a reminder\, not a workout.
+DESCRIPTION:10 mi easy (HR 125–145)\, then 3 at race effort\, mile by mil
+ e in the cruise band HR 156–163 (~7:35–7:50/mi on Boulder rolling dirt
+ ). Six days out — a reminder\, not a workout.
 END:VEVENT
 BEGIN:VEVENT
 UID:357ecccd-6289-5f0d-9e7c-5e1979c17ffd@canyonlands2026

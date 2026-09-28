@@ -59,7 +59,7 @@ HR 156–163 (race cruise band; threshold 175), or by venue (flat-equivalent bas
 | Thu 8 | Atomic Track Club · Strength light |
 | Fri 9 | 4 easy |
 | Sat 10 | 4 easy + strides |
-| Sun 11 | **Last long run. 15 mi, ~1,500 ft: 6 easy / 8 at race effort / 1 easy.** Same shoes, same fuel |
+| Sun 11 | **Last long run. 15 mi, ~1,500 ft: 6 easy / 60 s stop / 8 at race effort / 1 easy.** The 8 walk the race bands in order on the watch: mi 1–2 at 152–158 (start), mi 3–6 at 156–163 (cruise), mi 7–8 at 158–165 (late; on pace at ≤162 here = GO on race day). Same shoes, same fuel |
 
 ## W4 · Oct 12–18 · ~35 mi · taper
 
@@ -71,7 +71,7 @@ HR 156–163 (race cruise band; threshold 175), or by venue (flat-equivalent bas
 | Thu 15 | Atomic Track Club — warm-up + half the set (~5 mi) · Strength very light or skip |
 | Fri 16 | 3 easy |
 | Sat 17 | 4 easy + strides |
-| Sun 18 | 10 easy + 3 at race effort |
+| Sun 18 | 10 easy + 3 at race effort, mile by mile in the cruise band 156–163 |
 
 ## Race week · Oct 19–24 · ~14 mi
 
