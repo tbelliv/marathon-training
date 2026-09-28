@@ -149,13 +149,14 @@ UID:4fe08311-b412-5c4b-815a-5f51c6b05571@canyonlands2026
 DTSTAMP:20260922T203638Z
 DTSTART;TZID=America/Denver:20261004T070000
 DTEND;TZID=America/Denver:20261004T101500
-SUMMARY:DRESS REHEARSAL — two loops from Doudy Draw TH (23 mi)
-DESCRIPTION:Rolling dirt\, 2\,000–2\,500 ft. ~55 min easy / 10 mi at ra
- ce effort = HR 150–156 (Boulder rolling dirt ~7:35–7:50/mi\, Nederla
- nd 7:55–8:10\, Breck 8:05–8:20) / ~50 min easy. Adios Pro 4\, race k
- it\, race fuel 60–90 g/hr\, one flask from the start. Run a −5% desc
- ent at 6:40–7:00 on purpose. Practice one 60 s stop then an immediate 
- 9:00 climb.
+SUMMARY:DRESS REHEARSAL — Doudy Draw loop ×2\, opposite rotations (20 mi)
+DESCRIPTION:Marshall Mesa / Doudy Draw loop x2 from Doudy Draw TH (oct4-reh
+ earsal.gpx)\, 20.1 mi\, ~1\,750 ft. Lap 1 easy HR 125–145: loop CLOCKWIS
+ E (backwards). 60 s stop at the car. Lap 2 race effort HR 150–156 (7:35
+ –7:50): loop COUNTER-CLOCKWISE (as published) — 2-mi climb off the sto
+ p\, miles 9–10 descent at capped pace\, matches the Canyonlands finish. 
+ Adios Pro 4\, race kit\, race fuel 60–90 g/hr\, one flask from the start
+ . Run a −5% descent at 6:40–7:00 on purpose.
 END:VEVENT
 BEGIN:VEVENT
 UID:cdab88e0-f6bf-53d6-ac44-3320efe20ed0@canyonlands2026
