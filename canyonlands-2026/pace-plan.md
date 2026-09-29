@@ -57,7 +57,14 @@ Average 7:35. Range 6:10–9:31. Arrival times MDT, from ultraPacer.
 | The Pit → finish, GO | 165–175 | 178 |
 | The Pit → finish, HOLD | 158–163 | 166 |
 
-  Descents (miles 10–12, 24–25): 148–153. **On the watch:** the COROS race-day card targets these bands mile by mile (miles 10–11 set to 148–158 so the descent does not alarm; miles 22–26 set to 158–175 to cover both HOLD and GO); the ultraPacer mile paces are in the card description. Altitude note: every long run in the record was at 8,300–9,500 ft, where max and sustained heart rate run several beats below sea level; the course sits at 5,300 ft, so the mountain numbers understate what is available on race day. Threshold (175) is the GO ceiling from The Pit and nothing before it. Drift of 3–5% at fixed pace after 2 h is expected: 158 at mile 8 and 165 at mile 20 are the same effort.
+  Descents (miles 10–12, 24–25): 148–153.
+
+  **Oct 4 drift test, decided before the run.** Lap 2 as loaded. Compare pace per heartbeat on the two flat cruise miles (lap-2 miles 3 and 6) and check the capped descents (miles 9–10):
+  - Mile 6 within 2% of mile 3, descents on target → cruise band top rises to 165 for race miles 5–16; average target 160–163.
+  - Mile 6 3–5% worse → bands stay as loaded.
+  - Mile 6 more than 5% worse, or descents over 7:20 at the band → bands stay and the climbs are capped at 165.
+  A clean result earns two beats, not five. No rehearsal is long enough to license 168 for the first half; that answer only comes at hour three.
+ **On the watch:** the COROS race-day card targets these bands mile by mile (miles 10–11 set to 148–158 so the descent does not alarm; miles 22–26 set to 158–175 to cover both HOLD and GO); the ultraPacer mile paces are in the card description. Altitude note: every long run in the record was at 8,300–9,500 ft, where max and sustained heart rate run several beats below sea level; the course sits at 5,300 ft, so the mountain numbers understate what is available on race day. Threshold (175) is the GO ceiling from The Pit and nothing before it. Drift of 3–5% at fixed pace after 2 h is expected: 158 at mile 8 and 165 at mile 20 are the same effort.
 - **Fuel:** 60–90 g carb/hr from mile 0. Gels at miles 9, 14, 19, 23 — before each climb.
 - **Hydration:** one 500 ml flask from the start. Both flasks at The Pit and Oasis. One at The Pit (2nd).
 
