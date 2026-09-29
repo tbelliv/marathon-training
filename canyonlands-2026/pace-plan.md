@@ -39,10 +39,11 @@ Average 7:35. Range 6:10–9:31. Arrival times MDT, from ultraPacer.
 
 ## The four miles that decide it
 
-- **Mile 2 — 9:31.** 453 ft climb at 6.4%. Everyone around you will go up it at 7:30. Let them.
+- **Mile 2 — 9:31.** 453 ft climb at 6.4%. Everyone around you will go up it at 7:30. Let them. Benchmark: the 2025 half winner (1:33, 7:27 avg) ran this exact mile in 9:19 at HR 176, 1.25× his average. ultraPacer's 9:31 is 1.26× yours. The number is right.
+- **Mile 3 — 6:53 on the card, treat it as 7:15–7:25.** The half winner ran the descent after the climb at his average pace (7:29), not faster; legs do not come back from a 6.4% climb in 200 m. Take the first half-mile to settle, then let the grade do it. Anything under 7:00 here was a chase.
 - **Miles 10–11 — 6:53 / 6:10.** The descent to the low point. Run it clean — no braking, no chasing. Fastest miles of the day; HR should fall to 148–153.
 - **Miles 14–17 — 8:15–9:05.** 1,070 ft segment, two steep climbs back to back. This is the race.
-- **Mile 22 — 9:07.** 367 ft climb starting 100 m after the aid station. Restart at effort, not pace.
+- **Mile 22 — 9:07.** 367 ft climb starting 100 m after the aid station. Restart at effort, not pace. Benchmark: the half winner ran this climb at 1.13× his average; 9:07 is 1.20× yours, so there is margin in the card here. His miles 24–25 were 0.85–0.87× average; the card's 6:48/6:39 are 0.88–0.90×, so the finish descents are runnable as written if the legs are there.
 
 ## Guardrails
 
