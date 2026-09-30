@@ -16,11 +16,11 @@ Route: `oct4-rehearsal.gpx`, 20.1 mi, miles numbered as the app will number them
 | 8 | 09:03 | 1:12:50 | +45 ft | 125–145 | lap 1 easy, clockwise |
 | 9 | 08:24 | 1:21:14 | -259 ft | 125–145 | lap 1 easy, clockwise |
 | 10 | 08:28 | 1:29:42 | -231 ft | 125–145 | lap 1 easy, clockwise |
-| 11 | 08:20 | 1:39:30 | +215 ft | 156–168 | climb off the stop = race mile 22 |
-| 12 | 08:35 | 1:48:05 | +267 ft | 156–168 | climb, same effort, no chasing |
+| 11 | 08:20 | 1:39:30 | +215 ft | 156–165 | climb off the stop = race mile 22 |
+| 12 | 08:35 | 1:48:05 | +267 ft | 156–165 | climb, same effort, no chasing |
 | 13 | 07:35 | 1:55:40 | -20 ft | 156–163 | settle into cruise |
 | 14 | 07:10 | 2:02:50 | -181 ft | 148–158 | descent, no braking |
-| 15 | 08:05 | 2:10:55 | +180 ft | 156–168 | climb = race miles 14–16 |
+| 15 | 08:05 | 2:10:55 | +180 ft | 156–165 | climb = race miles 14–16 |
 | 16 | 07:37 | 2:18:32 | +2 ft | 156–163 | cruise, cadence 173+ |
 | 17 | 07:20 | 2:25:52 | -138 ft | 150–160 | descent, gel |
 | 18 | 07:48 | 2:33:40 | +106 ft | 156–165 | late band = race miles 18–20, GO check ≤162 |

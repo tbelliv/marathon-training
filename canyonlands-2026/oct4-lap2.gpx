@@ -2,14 +2,14 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="marathon-training/canyonlands-2026">
  <metadata>
   <name>Oct 4 Lap 2 - Doudy Draw loop, race effort, counter-clockwise</name>
-  <desc>Lap 2 of the Oct 4 dress rehearsal on its own: the MTB Project "Marshall Mesa - Doudy Draw Loops" route, 10.03 mi, ~875 ft, COUNTER-CLOCKWISE as published, from the Doudy Draw TH. Race effort. Heart rate leads (threshold 172-175): climbs 156-168, rollers 156-163 with miles 3 and 6 held at 160, mile 8 156-165 (GO check: on pace at 162 or under), descents 148-158 at a 7:00-7:15 cap. Target 1:17 (7:40/mi average). Waypoints carry the band and instruction at each mile. Start it after the 60 s stop at the car.</desc>
+  <desc>Lap 2 of the Oct 4 dress rehearsal on its own: the MTB Project "Marshall Mesa - Doudy Draw Loops" route, 10.03 mi, ~875 ft, COUNTER-CLOCKWISE as published, from the Doudy Draw TH. Race effort. Heart rate leads (threshold 172-175): climbs 156-165, touching 168 only on the final pitch, rollers 156-163 with miles 3 and 6 held at 160, mile 8 156-165 (GO check: on pace at 162 or under), descents 148-158 at a 7:00-7:15 cap. Target 1:17 (7:40/mi average). Waypoints carry the band and instruction at each mile. Start it after the 60 s stop at the car.</desc>
  </metadata>
  <wpt lat="39.938078" lon="-105.256563"><ele>1725.8</ele><name>Doudy Draw TH - start and finish of lap 2</name><desc>Start after the 60 s stop. Race kit, race shoes, one flask, gel at mile 7.</desc></wpt>
- <wpt lat="39.938078" lon="-105.256563"><ele>1725.8</ele><name>L2 M1 climb 220 ft HR 156-168</name><desc>restart on effort = mile 22</desc></wpt>
- <wpt lat="39.925837" lon="-105.257866"><ele>1792.7</ele><name>L2 M2 climb 260 ft HR 156-168</name><desc>same effort, no chasing the split</desc></wpt>
+ <wpt lat="39.938078" lon="-105.256563"><ele>1725.8</ele><name>L2 M1 climb 220 ft HR 156-165</name><desc>restart on effort = mile 22</desc></wpt>
+ <wpt lat="39.925837" lon="-105.257866"><ele>1792.7</ele><name>L2 M2 climb 260 ft HR 156-165</name><desc>same effort, no chasing the split</desc></wpt>
  <wpt lat="39.918721" lon="-105.263588"><ele>1872.6</ele><name>L2 M3 rolling HR 156-163</name><desc>settle into cruise</desc></wpt>
  <wpt lat="39.926547" lon="-105.267828"><ele>1866.7</ele><name>L2 M4 descent 175 ft HR 148-158</name><desc>let it fall, no braking</desc></wpt>
- <wpt lat="39.922021" lon="-105.259824"><ele>1812.1</ele><name>L2 M5 climb 175 ft HR 156-168</name><desc>= miles 14-16</desc></wpt>
+ <wpt lat="39.922021" lon="-105.259824"><ele>1812.1</ele><name>L2 M5 climb 175 ft HR 156-165</name><desc>= miles 14-16</desc></wpt>
  <wpt lat="39.920601" lon="-105.257075"><ele>1867.4</ele><name>L2 M6 flat HR 156-163</name><desc>cruise, cadence 173+</desc></wpt>
  <wpt lat="39.914366" lon="-105.249556"><ele>1866.6</ele><name>L2 M7 descent 130 ft HR 150-160</name><desc>relaxed, gel</desc></wpt>
  <wpt lat="39.923027" lon="-105.240196"><ele>1823.3</ele><name>L2 M8 climb 115 ft HR 156-165</name><desc>= miles 18-20, GO check: on pace at 162 or under</desc></wpt>
