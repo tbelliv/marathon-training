@@ -25,22 +25,24 @@ Total time about 45–50 min. Order is fixed: plyos fresh, deadlift heavy, squat
 
 ### Trap-bar deadlift progression (bar assumed 25 kg; weigh it)
 
-| Weeks | Dates | Sets × reps | Load | Purpose |
-|---|---|---|---|---|
-| Now | **Mon Oct 5** | 3×5 | bar + 10 kg (35 kg) | technique only. New lift 19 days out: learn it, do not load it |
-| Taper | Mon Oct 12 | 2×5 | 35 kg | groove, nothing more |
-| Race week | Mon Oct 19 | — | — | no bar, no plyos. Core and hips only, 15 min |
-| Recovery | Oct 26 – Nov 1 | — | — | nothing. Walk, sleep, eat |
-| 1–3 | Nov 2 – 22 | 3×8 | 40 → 50 kg | anatomical adaptation, tendon prep |
-| 4–6 | Nov 23 – Dec 13 | 4×5 | 55 → 70 kg | strength. Jump squats and plyos in |
-| 7–9 | Dec 14 – Jan 3 | 4×4 | 70 → 85 kg | strength |
-| 10–12 | Jan 4 – 24 | 4×3 | 85 → 95 kg | max strength, bar speed is the governor |
-| 13–14 | Jan 25 – Feb 7 | 3×3 | 80 kg | maintain through the peak long runs |
-| 15–16 | Feb 8 – 21 | 2×3 then none | 70 kg, then nothing from Feb 15 | taper |
+Reference: 125 kg (275 lb) pulled on the second-ever session. Working 1RM assumed 130 kg until a heavier set says otherwise. Loads below are chosen so the January blocks sit at 85–90 % of that, which is where the economy research lives; the early weeks are light on purpose for tendons, not muscle.
 
-The squat tracks the deadlift at 65–70 %: 25 kg (the bar) in weeks 1–3, 35–45 kg in weeks 4–6, 45–60 kg in weeks 7–9, 60–65 kg in weeks 10–12. Tonight and Oct 12 the squat is the empty bar, 3×5, like the deadlift.
+| Weeks | Dates | Sets × reps | Load | % of 130 | Purpose |
+|---|---|---|---|---|---|
+| Now | **Mon Oct 5** | 4×5 | 60 kg (135 lb) | 45 | technique on tired legs, 19 days out. Not a training load |
+| Taper | Mon Oct 12 | 3×5 | 60 kg | 45 | groove, nothing more |
+| Race week | Mon Oct 19 | — | — | | no bar, no plyos. Core and hips only, 15 min |
+| Recovery | Oct 26 – Nov 1 | — | — | | nothing. Walk, sleep, eat |
+| 1–3 | Nov 2 – 22 | 3×8 | 70 → 80 kg | 55–60 | tendon prep, pogo hops in |
+| 4–6 | Nov 23 – Dec 13 | 4×5 | 90 → 100 kg | 70–77 | strength |
+| 7–9 | Dec 14 – Jan 3 | 4×4 | 105 → 115 kg | 80–88 | strength |
+| 10–12 | Jan 4 – 24 | 4×3 | 115 → 120 kg | 88–92 | max strength, bar speed is the governor |
+| 13–14 | Jan 25 – Feb 7 | 3×3 | 105 kg | 80 | maintain through the peak long runs |
+| 15–16 | Feb 8 – 21 | 2×3 then none | 90 kg, then nothing from Feb 15 | | taper |
 
-95 kg is 1.3 × bodyweight. That is a realistic 14-week outcome for a first barbell block and is where the economy literature puts the benefit. If a week is missed, repeat it rather than skip ahead.
+The squat tracks the deadlift at 65–70 %: goblet 16–24 kg through November, then trap-bar high handles 60–70 kg in December and 75–85 kg in January. Tonight and Oct 12 the squat is a 16 kg goblet, 3×8.
+
+120 kg is 1.6 × bodyweight. The number is less important than the rule: if a set slows, the next set is lighter, and a week is repeated rather than skipped. A fast-twitch bias means the strength comes easily; the tendons and the Tuesday track session are the limiters, so the early weeks stay light even though they will feel easy.
 
 ---
 
