@@ -173,10 +173,11 @@ def analyze_fit(path):
         return t/gm*MI
     be = best_efforts(rec)
     alt = st.median([c['alt'] for c in ch])*3.281
+    hrpace = [(c['hr'], c['m']*grade_cost_factor(c['grade'])/c['sec']) for c in body if 130 <= c['hr'] <= 178]
     return dict(file=os.path.basename(path), date=dt.datetime.fromtimestamp(rec[0][0]).date(), moving_s=round(moving), dist_mi=round(dist/MI, 2),
                 avg_hr=round(avg_hr), max_hr=max((r[1] or 0) for r in rec), alt_ft=round(alt),
                 pace=fmt_pace(moving/dist*MI), gap=fmt_pace(moving/gap_dist*MI), ef=round(ef, 3), decoupling_pct=(round(decoup, 1) if decoup is not None else None),
-                durability=dur_rel, pace_hr150=pace_at(145, 155), pace_hr160=pace_at(155, 165), pace_hr168=pace_at(165, 172), best=be)
+                durability=dur_rel, pace_hr150=pace_at(145, 155), pace_hr160=pace_at(155, 165), pace_hr168=pace_at(165, 172), best=be, hrpace=hrpace)
 
 # ---------- 3. critical speed, VO2max ----------
 def critical_speed(runs, max_alt_ft=7000):
@@ -193,6 +194,17 @@ def critical_speed(runs, max_alt_ft=7000):
     sxx = sum(p[0]**2 for p in pts); sxy = sum(p[0]*p[1] for p in pts)
     cs = (n*sxy - sx*sy)/(n*sxx - sx*sx); dp = (sy - cs*sx)/n
     return dict(cs_mps=cs, d_prime_m=dp, points=[(w, d, best[w][1]) for w, d in pts])
+
+def threshold_from_hr(runs, weeks=7, max_alt_ft=7000):
+    """Pooled linear fit of grade-adjusted speed against heart rate over 100 m chunks of steady runs
+    (track, hill and runs above max_alt_ft excluded) in the last `weeks` weeks, read off at LTHR.
+    This is the field version of what COROS does: it uses every run, not just the best efforts."""
+    since = dt.date.today() - dt.timedelta(weeks=weeks)
+    pts = [p for r in runs if r['date'] >= since and r['alt_ft'] <= max_alt_ft and not any(k in r['file'] for k in ('track', 'hill')) for p in r['hrpace']]
+    if len(pts) < 100: return None
+    n = len(pts); sx = sum(p[0] for p in pts); sy = sum(p[1] for p in pts); sxx = sum(p[0]**2 for p in pts); sxy = sum(p[0]*p[1] for p in pts)
+    b = (n*sxy - sx*sy)/(n*sxx - sx*sx); a = (sy - b*sx)/n
+    return dict(n=n, at=lambda hr: a + b*hr)
 
 def vdot(dist_m, time_s):
     t = time_s/60.0; v = dist_m/t
@@ -269,6 +281,13 @@ def main():
         L.append('\nEfforts above 7,000 ft are excluded from the fit (CS is altitude-specific). Remaining efforts mix sea level (Falmouth, Bristol) and 5,400–5,900 ft, so read this as the Boulder number. Every point above comes from a tired 10k or a 2-mile; a fresh all-out 5k or 10k would raise CS and everything derived from it.')
         cs_all = critical_speed(runs, max_alt_ft=99999)
         if cs_all: L.append('For reference, including the 9,000 ft long runs the fit gives CS %s /mi; that is the mountain number, not the race number.' % fmt_pace(MI/cs_all['cs_mps']))
+    th = threshold_from_hr(runs)
+    if th:
+        L.append('\n### Threshold pace from the heart-rate curve\n')
+        L.append('Second estimate, independent of best efforts: grade-adjusted speed regressed on heart rate over every steady 100 m of the last 7 weeks below 7,000 ft (%d samples), read off at threshold heart rate.\n' % th['n'])
+        L.append('| Heart rate | GAP pace |\n|---|---|')
+        for hr in (150, 160, 165, 170, 172, 175): L.append('| %d | %s /mi |' % (hr, fmt_pace(MI/th['at'](hr))))
+        L.append('\nRead the two together: the best-effort fit is a floor set by the hardest continuous run in the record; the heart-rate curve is what the whole body of training says the threshold is. The truth is usually between them and closer to the curve. COROS threshold pace: %s /mi.' % fmt_pace(float(coros['threshold_pace_s_per_km'])*MI/1000))
     # VO2max
     L.append('\n## 3. VO2max and race equivalents (Daniels VDOT, altitude-corrected)\n')
     L.append('| Effort | Raw | Sea-level equivalent | VDOT |\n|---|---|---|---|')

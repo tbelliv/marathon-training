@@ -46,6 +46,21 @@ Critical speed **6:58 /mi** (3.85 m/s), D′ **295 m**, fit to the best efforts 
 Efforts above 7,000 ft are excluded from the fit (CS is altitude-specific). Remaining efforts mix sea level (Falmouth, Bristol) and 5,400–5,900 ft, so read this as the Boulder number. Every point above comes from a tired 10k or a 2-mile; a fresh all-out 5k or 10k would raise CS and everything derived from it.
 For reference, including the 9,000 ft long runs the fit gives CS 6:44 /mi; that is the mountain number, not the race number.
 
+### Threshold pace from the heart-rate curve
+
+Second estimate, independent of best efforts: grade-adjusted speed regressed on heart rate over every steady 100 m of the last 7 weeks below 7,000 ft (594 samples), read off at threshold heart rate.
+
+| Heart rate | GAP pace |
+|---|---|
+| 150 | 8:54 /mi |
+| 160 | 7:47 /mi |
+| 165 | 7:19 /mi |
+| 170 | 6:55 /mi |
+| 172 | 6:46 /mi |
+| 175 | 6:33 /mi |
+
+Read the two together: the best-effort fit is a floor set by the hardest continuous run in the record; the heart-rate curve is what the whole body of training says the threshold is. The truth is usually between them and closer to the curve. COROS threshold pace: 6:38 /mi.
+
 ## 3. VO2max and race equivalents (Daniels VDOT, altitude-corrected)
 
 | Effort | Raw | Sea-level equivalent | VDOT |
