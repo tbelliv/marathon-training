@@ -6,16 +6,14 @@ Scale: 2 = light PT, 4 = normal Thursday, 5–6 = normal Monday, 7 = a heavy Mon
 
 | Date | Session | Min | Sets | Avg HR | COROS load | Effort | **Load** | Deadlift (top set) | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| Mon Oct 5 | Back PT | 42 | 20 | 91 | — | 3* | 126 | — | separate session, earlier in the day |
-| Mon Oct 5 | Big Strength | 57 | 41 | 89 | 13 | 5* | 285 | 4×5 @ 60 kg (135 lb), fast | first trap-bar session, technique only, no hops |
-
-\* assumed, confirm or correct.
+| Mon Oct 5 | Back PT | 42 | 20 | 91 | — | 3 | 126 | — | separate session, earlier in the day |
+| Mon Oct 5 | Big Strength | 57 | 41 | 89 | 13 | 5 | 285 | 4×5 @ 60 kg (135 lb), fast | first trap-bar session, technique only, no hops. Plus rows 4×10 @ 45 lb |
 
 ## Weekly totals
 
 | Week | Sessions | Strength load | Running load (COROS) | Notes |
 |---|---|---|---|---|
-| Oct 5–11 | | | | taper week 1 |
+| Oct 5–11 | 2 so far | 411 so far | | taper week 1 |
 
 ## Rules for reading it
 
