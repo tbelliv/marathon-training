@@ -104,19 +104,25 @@ def chunks(rec, size=100.0):
     return out
 
 def best_efforts(rec, windows=(180, 300, 600, 720, 900, 1200, 1800, 2700, 3600)):
-    """Max distance covered in each time window (two-pointer on timestamps). Timer pauses inflate time, so a pause hurts, never helps."""
-    res = {}
-    n = len(rec); 
+    """Max distance covered in each window of MOVING time (two-pointer). Stops, timer pauses and walking
+    (speed under 1.0 m/s, or a gap over 10 s between samples) are removed from the clock first, the way a
+    race timing mat or a lab test would never include them. The blister stop in the Oct 4 10k is the test case."""
+    mv = []; tm = 0.0
+    for i in range(1, len(rec)):
+        dt_ = rec[i][0] - rec[i-1][0]; dd = rec[i][2] - rec[i-1][2]
+        if dt_ <= 0 or dt_ > 10: continue
+        spd = rec[i][4] if rec[i][4] is not None else dd/dt_
+        if spd < 1.0: continue
+        tm += dt_; mv.append((tm, rec[i][2]))
+    res = {}; n = len(mv)
     for w in windows:
         best = 0.0; j = 0
         for i in range(n):
-            while j < n and rec[j][0] - rec[i][0] < w: j += 1
+            while j < n and mv[j][0] - mv[i][0] < w: j += 1
             if j >= n: break
-            # interpolate distance at exactly t_i + w
-            t0, d0 = rec[j-1][0], rec[j-1][2]; t1, d1 = rec[j][0], rec[j][2]
-            tt = rec[i][0] + w
+            t0, d0 = mv[j-1]; t1, d1 = mv[j]; tt = mv[i][0] + w
             d = d0 + (d1-d0)*((tt-t0)/(t1-t0)) if t1 > t0 else d0
-            best = max(best, d - rec[i][2])
+            best = max(best, d - mv[i][1])
         if best > 0: res[w] = best
     return res
 
@@ -166,12 +172,14 @@ def analyze_fit(path):
                 durability=dur_rel, pace_hr150=pace_at(145, 155), pace_hr160=pace_at(155, 165), pace_hr168=pace_at(165, 172), best=be)
 
 # ---------- 3. critical speed, VO2max ----------
-def critical_speed(runs):
-    """Two-parameter model d = CS*t + D' fit to the single best distance at each window 3–30 min across all files."""
+def critical_speed(runs, max_alt_ft=7000):
+    """Two-parameter model d = CS*t + D' fit to the single best distance at each window 3–20 min (the standard CS testing range).
+    Efforts above max_alt_ft are excluded: CS is altitude-specific and a 9,000 ft long run drags the Boulder number down."""
     best = {}
     for r in runs:
+        if r['alt_ft'] > max_alt_ft: continue
         for w, d in r['best'].items():
-            if 180 <= w <= 1800 and d > best.get(w, (0, None))[0]: best[w] = (d, r['file'])
+            if 180 <= w <= 1200 and d > best.get(w, (0, None))[0]: best[w] = (d, r['file'])
     pts = sorted((w, d) for w, (d, _) in best.items())
     if len(pts) < 3: return None
     n = len(pts); sx = sum(p[0] for p in pts); sy = sum(p[1] for p in pts)
@@ -251,7 +259,9 @@ def main():
         L.append('Critical speed **%s /mi** (%.2f m/s), D′ **%.0f m**, fit to the best efforts below. CS is the pace you can hold for roughly 30–60 min: the physiological threshold. Threshold pace on the watch bands (172–175 bpm) should sit near this.\n' % (fmt_pace(csp), cs['cs_mps'], cs['d_prime_m']))
         L.append('| Window | Best distance | Pace | From |\n|---|---|---|---|')
         for w, d, fn in cs['points']: L.append('| %d min | %.0f m | %s /mi | %s |' % (w//60, d, fmt_pace(w/d*MI), fn))
-        L.append('\nCaveat: efforts mix sea level (Falmouth, Bristol) and 5,400–5,900 ft. CS at altitude is 3–4 % slower than the same fitness at sea level; this number is a blend and should be read as the Boulder number.')
+        L.append('\nEfforts above 7,000 ft are excluded from the fit (CS is altitude-specific). Remaining efforts mix sea level (Falmouth, Bristol) and 5,400–5,900 ft, so read this as the Boulder number. Every point above comes from a tired 10k or a 2-mile; a fresh all-out 5k or 10k would raise CS and everything derived from it.')
+        cs_all = critical_speed(runs, max_alt_ft=99999)
+        if cs_all: L.append('For reference, including the 9,000 ft long runs the fit gives CS %s /mi; that is the mountain number, not the race number.' % fmt_pace(MI/cs_all['cs_mps']))
     # VO2max
     L.append('\n## 3. VO2max and race equivalents (Daniels VDOT, altitude-corrected)\n')
     L.append('| Effort | Raw | Sea-level equivalent | VDOT |\n|---|---|---|---|')
@@ -269,11 +279,12 @@ def main():
         vvo2 = v_sl/0.87                       # CS is ~87 % of vVO2max in trained runners
         vcs = -4.60 + 0.182258*vvo2 + 0.000104*vvo2*vvo2
         L.append('| Critical speed (sea-level corrected, CS = 87 %% of vVO2max) | %s /mi | %s /mi | %.1f |' % (fmt_pace(MI/cs['cs_mps']), fmt_pace(MI/(cs['cs_mps']*1.035)), vcs))
-    L.append('\nRace-based VDOT **%.0f** is a floor: the 10k was run tired and the Falmouth day was hot. The critical-speed estimate **%.0f** and COROS **%s** agree with each other and are the better guess at current fitness. Lab VO2max usually reads 2–5 points above VDOT, so expect **%d–%d ml/kg/min** on a treadmill.\n' % (vbest, vcs or vbest, coros['vo2max'], round((vcs or vbest)+2), round((vcs or vbest)+5)))
-    L.append('| Distance | Floor (VDOT %.0f), sea level | Likely (VDOT %.0f), sea level | Likely, at Boulder altitude |\n|---|---|---|---|' % (vbest, vcs or vbest))
+    vlike = max(vbest, vcs or 0)
+    L.append('\nEvery effort in the record is sub-maximal (the 10k was run tired, Falmouth was hot), so every number here is a **floor**. Best-supported VDOT **%.0f** (race-based %.0f, critical-speed %.0f); COROS says **%s** from its own model. Lab VO2max usually reads 2–5 points above VDOT, so expect **%d–%d ml/kg/min** on a treadmill. A fresh all-out 5k would replace the floor with a measurement.\n' % (vlike, vbest, vcs or 0, coros['vo2max'], round(vlike+2), round(vlike+5)))
+    L.append('| Distance | Floor (VDOT %.0f), sea level | COROS-equivalent (VDOT %s), sea level | Floor, at Boulder altitude |\n|---|---|---|---|' % (vlike, coros['vo2max']))
     for nm, dm in (('5k', 5000), ('10k', 10000), ('Half', 21097), ('Marathon', 42195)):
-        t1 = race_time(vbest, dm); t2 = race_time(vcs or vbest, dm)
-        L.append('| %s | %s | %s | %s |' % (nm, fmt_t(t1), fmt_t(t2), fmt_t(t2*altitude_time_factor(5400, t2/60))))
+        t1 = race_time(vlike, dm); t2 = race_time(float(coros['vo2max']), dm)
+        L.append('| %s | %s | %s | %s |' % (nm, fmt_t(t1), fmt_t(t2), fmt_t(t1*altitude_time_factor(5400, t1/60))))
     L.append('\nCOROS predictions for comparison: 5k %s · 10k %s · half %s · marathon %s.' % (fmt_t(int(coros['pred_5k_s'])), fmt_t(int(coros['pred_10k_s'])), fmt_t(int(coros['pred_half_s'])), fmt_t(int(coros['pred_marathon_s']))))
     # economy / EF trend
     L.append('\n## 4. Economy proxy: grade-adjusted pace per heartbeat\n')
