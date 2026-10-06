@@ -223,13 +223,17 @@ BEGIN:VEVENT
 UID:6e80e1ac-797b-5666-ad40-e86aadf1a236@canyonlands2026
 DTSTAMP:20260922T203638Z
 DTSTART;TZID=America/Denver:20261011T071500
-DTEND;TZID=America/Denver:20261011T092500
-SUMMARY:LAST LONG RUN — 15 mi\, 8 at race effort
-DESCRIPTION:Rolling dirt\, ~1\,500 ft. 6 easy (HR 125–145) / 60 s stop / 
- 8 at race effort walking the race-day HR bands in order: mi 1–2 152–15
- 8\, mi 3–6 156–163\, mi 7–8 158–165 (on pace at ≤162 here = GO o
- n race day) / 1 easy. Expect ~7:35–7:50/mi on Boulder rolling dirt. Same
-  shoes and fuel as Oct 4. Nothing new after today.
+DTEND;TZID=America/Denver:20261011T100000
+SUMMARY:LAST LONG RUN — Eleven Mile Canyon 17.7 mi\, 8 at race effort
+DESCRIPTION:Eleven Mile Canyon out-and-back\, 17.7 mi\, ~900 ft each way\, 
+ 7\,950–8\,500 ft\, dirt road. 4 easy (HR 125–145) / 60 s stop (flask\,
+  gel) / 8 at race effort / 5.7 easy. Block mi 1 restart 156–165\; mi 2
+ –5 climbing gently 156–163\, hold 160 (= Oasis to The Pit\; on pace at
+  162 or under on mi 4–5 = GO on race day)\; turn at the end of the road\
+ , gel\, no stop\; mi 6–8 descending 148–158\, pace capped 7:00 (= The 
+ Pit to finish). Race-day test: caffeine 200 mg 45–60 min pre\, famotidin
+ e 20 mg night before + breakfast\, race breakfast\, race gels\, Adios Pro 
+ 4\, Tums in the pocket. Nothing new after today.
 END:VEVENT
 BEGIN:VEVENT
 UID:7b49fa77-472c-56fc-b103-9bc849413357@canyonlands2026

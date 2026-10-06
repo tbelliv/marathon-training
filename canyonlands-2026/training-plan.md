@@ -59,7 +59,7 @@ HR 156–163 (race cruise band; threshold 172–175: 175 at sea level, 172–174
 | Thu 8 | Atomic Track Club · Strength light |
 | Fri 9 | 4 easy |
 | Sat 10 | 4 easy + strides |
-| Sun 11 | **Last long run. 15 mi, ~1,500 ft: 6 easy / 60 s stop / 8 at race effort / 1 easy.** The 8 walk the race bands in order on the watch: mi 1–2 at 152–158 (start), mi 3–6 at 156–163 (cruise), mi 7–8 at 158–165 (late; on pace at ≤162 here = GO on race day). Same shoes, same fuel |
+| Sun 11 | **Last long run — Eleven Mile Canyon out-and-back** (`elevenmile.gpx`): 17.7 mi, ~900 ft each way, 7,950–8,500 ft, dirt road, steady 1% up to the turn at mile 8.8 and 1% back down. **4 easy (125–145) / 60 s stop / 8 at race effort / 5.7 easy.** The 8 on the watch mile by mile: block mi 1 restart 156–165; mi 2–5 climbing gently 156–163, hold 160 (= Oasis → The Pit; on pace at ≤162 on mi 4–5 = GO on race day); turn at the end of the road, gel, no stop; mi 6–8 descending 148–158, pace capped 7:00 (= The Pit → finish). Race-day test: caffeine 200 mg 45–60 min pre, famotidine night before + breakfast, race breakfast, race gels, Adios Pro 4. Nothing new after today |
 
 ## W4 · Oct 12–18 · ~35 mi · taper
 
