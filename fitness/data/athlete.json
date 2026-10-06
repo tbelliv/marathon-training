@@ -1,3 +1,29 @@
-{"name":"Tim","mass_kg":74,"hr_rest":47,"hr_max":192,"lthr_low":172,"lthr_high":175,"home_altitude_ft":5400,
- "races":[{"date":"2026-10-24","name":"Canyonlands Ultra Marathon","dist_mi":25.99,"goal":"3:20"},
-          {"date":"2027-02-21","name":"Ventura Marathon","dist_mi":26.22,"goal":"2:50"}]}
+{
+ "name": "Tim",
+ "mass_kg": 74,
+ "hr_rest": 47,
+ "hr_max": 192,
+ "lthr_low": 172,
+ "lthr_high": 175,
+ "home_altitude_ft": 5400,
+ "races": [
+  {
+   "date": "2026-10-24",
+   "name": "Canyonlands Ultra Marathon",
+   "dist_mi": 25.99,
+   "goal": "3:20"
+  },
+  {
+   "date": "2027-02-21",
+   "name": "Ventura Marathon",
+   "dist_mi": 26.22,
+   "goal": "2:50"
+  }
+ ],
+ "self_reported_paces_2026_10_06": {
+  "5k_per_mi": "6:00",
+  "10k_per_mi": "6:15",
+  "half_per_mi": "6:30",
+  "note": "Boulder altitude, athlete estimate, not raced"
+ }
+}
