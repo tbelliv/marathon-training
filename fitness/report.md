@@ -32,19 +32,19 @@ Load ratio 0.98: in the 0.8–1.3 sweet spot.
 
 ## 2. Critical speed and D′
 
-Critical speed **5:49 /mi** (4.62 m/s), D′ **154 m**, fit to the best efforts below. CS is the pace you can hold for roughly 30–60 min: the physiological threshold. Threshold pace on the watch bands (172–175 bpm) should sit near this.
+Critical speed **6:58 /mi** (3.85 m/s), D′ **295 m**, fit to the best efforts below. CS is the pace you can hold for roughly 30–60 min: the physiological threshold. Threshold pace on the watch bands (172–175 bpm) should sit near this.
 
 | Window | Best distance | Pace | From |
 |---|---|---|---|
-| 3 min | 989 m | 4:53 /mi | 0924_track.fit |
-| 5 min | 1559 m | 5:10 /mi | 0924_track.fit |
-| 10 min | 2899 m | 5:33 /mi | 0924_track.fit |
-| 12 min | 3450 m | 5:36 /mi | 0924_track.fit |
-| 15 min | 4326 m | 5:35 /mi | 0924_track.fit |
-| 20 min | 5702 m | 5:39 /mi | 0924_track.fit |
+| 3 min | 861 m | 5:36 /mi | 1004_10k.fit |
+| 5 min | 1426 m | 5:39 /mi | 1004_10k.fit |
+| 10 min | 2698 m | 5:58 /mi | 1004_10k.fit |
+| 12 min | 3194 m | 6:03 /mi | 1004_10k.fit |
+| 15 min | 3877 m | 6:14 /mi | 1004_10k.fit |
+| 20 min | 4731 m | 6:48 /mi | 1004_10k.fit |
 
 Efforts above 7,000 ft are excluded from the fit (CS is altitude-specific). Remaining efforts mix sea level (Falmouth, Bristol) and 5,400–5,900 ft, so read this as the Boulder number. Every point above comes from a tired 10k or a 2-mile; a fresh all-out 5k or 10k would raise CS and everything derived from it.
-For reference, including the 9,000 ft long runs the fit gives CS 5:49 /mi; that is the mountain number, not the race number.
+For reference, including the 9,000 ft long runs the fit gives CS 6:44 /mi; that is the mountain number, not the race number.
 
 ## 3. VO2max and race equivalents (Daniels VDOT, altitude-corrected)
 
@@ -53,16 +53,16 @@ For reference, including the 9,000 ft long runs the fit gives CS 5:49 /mi; that 
 | Clear Creek 10k, Oct 4 (after 8 easy miles, blister stop, not a race) | 45:57 | 44:14 | 50.8 |
 | Falmouth 7 mi, Aug 2025 (sea level, hot and humid) | 53:17 | 53:17 | 43.5 |
 | Bristol 2 mi, Sep 9 (sea level) | 12:22 | 12:22 | 50.8 |
-| Critical speed (sea-level corrected, CS = 87 % of vVO2max) | 5:49 /mi | 5:37 /mi | 66.7 |
+| Critical speed (sea-level corrected, CS = 87 % of vVO2max) | 6:58 /mi | 6:44 /mi | 53.3 |
 
-Every effort in the record is sub-maximal (the 10k was run tired, Falmouth was hot), so every number here is a **floor**. Best-supported VDOT **67** (race-based 51, critical-speed 67); COROS says **56** from its own model. Lab VO2max usually reads 2–5 points above VDOT, so expect **69–72 ml/kg/min** on a treadmill. A fresh all-out 5k would replace the floor with a measurement.
+Every effort in the record is sub-maximal (the 10k was run tired, Falmouth was hot), so every number here is a **floor**. Best-supported VDOT **53** (race-based 51, critical-speed 53); COROS says **56** from its own model. Lab VO2max usually reads 2–5 points above VDOT, so expect **55–58 ml/kg/min** on a treadmill. A fresh all-out 5k would replace the floor with a measurement.
 
-| Distance | Floor (VDOT 67), sea level | COROS-equivalent (VDOT 56), sea level | Floor, at Boulder altitude |
+| Distance | Floor (VDOT 53), sea level | COROS-equivalent (VDOT 56), sea level | Floor, at Boulder altitude |
 |---|---|---|---|
-| 5k | 15:33 | 18:05 | 16:03 |
-| 10k | 32:18 | 37:31 | 33:20 |
-| Half | 1:11:15 | 1:22:58 | 1:13:32 |
-| Marathon | 2:29:11 | 2:53:15 | 2:33:58 |
+| 5k | 18:51 | 18:05 | 19:28 |
+| 10k | 39:06 | 37:31 | 40:21 |
+| Half | 1:26:31 | 1:22:58 | 1:29:17 |
+| Marathon | 3:00:31 | 2:53:15 | 3:06:17 |
 
 COROS predictions for comparison: 5k 19:39 · 10k 40:36 · half 1:30:05 · marathon 3:07:54.
 

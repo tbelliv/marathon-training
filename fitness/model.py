@@ -104,26 +104,33 @@ def chunks(rec, size=100.0):
     return out
 
 def best_efforts(rec, windows=(180, 300, 600, 720, 900, 1200, 1800, 2700, 3600)):
-    """Max distance covered in each window of MOVING time (two-pointer). Stops, timer pauses and walking
-    (speed under 1.0 m/s, or a gap over 10 s between samples) are removed from the clock first, the way a
-    race timing mat or a lab test would never include them. The blister stop in the Oct 4 10k is the test case."""
-    mv = []; tm = 0.0
+    """Max distance covered in each time window, measured only inside CONTINUOUS running segments.
+    A segment breaks at any stop, timer pause, or walk longer than 15 s (speed under 1.0 m/s) or a gap over 10 s
+    between samples. So the blister stop splits the Oct 4 10k into two efforts, and a 20x400 session can never be
+    stitched into a fake 20-minute effort by deleting its rests. Inside a segment the clock is wall time."""
+    segs = []; cur = [rec[0]]; slow = 0.0
     for i in range(1, len(rec)):
         dt_ = rec[i][0] - rec[i-1][0]; dd = rec[i][2] - rec[i-1][2]
-        if dt_ <= 0 or dt_ > 10: continue
-        spd = rec[i][4] if rec[i][4] is not None else dd/dt_
-        if spd < 1.0: continue
-        tm += dt_; mv.append((tm, rec[i][2]))
-    res = {}; n = len(mv)
-    for w in windows:
-        best = 0.0; j = 0
-        for i in range(n):
-            while j < n and mv[j][0] - mv[i][0] < w: j += 1
-            if j >= n: break
-            t0, d0 = mv[j-1]; t1, d1 = mv[j]; tt = mv[i][0] + w
-            d = d0 + (d1-d0)*((tt-t0)/(t1-t0)) if t1 > t0 else d0
-            best = max(best, d - mv[i][1])
-        if best > 0: res[w] = best
+        spd = rec[i][4] if rec[i][4] is not None else (dd/dt_ if dt_ > 0 else 0)
+        if dt_ <= 0 or dt_ > 10 or (spd < 1.0 and (slow + dt_) > 15):
+            if len(cur) > 10: segs.append(cur)
+            cur = [rec[i]]; slow = 0.0; continue
+        slow = slow + dt_ if spd < 1.0 else 0.0
+        cur.append(rec[i])
+    if len(cur) > 10: segs.append(cur)
+    res = {}
+    for seg in segs:
+        n = len(seg)
+        for w in windows:
+            if seg[-1][0] - seg[0][0] < w: continue
+            best = 0.0; j = 0
+            for i in range(n):
+                while j < n and seg[j][0] - seg[i][0] < w: j += 1
+                if j >= n: break
+                t0, d0 = seg[j-1][0], seg[j-1][2]; t1, d1 = seg[j][0], seg[j][2]; tt = seg[i][0] + w
+                d = d0 + (d1-d0)*((tt-t0)/(t1-t0)) if t1 > t0 else d0
+                best = max(best, d - seg[i][2])
+            if best > res.get(w, 0): res[w] = best
     return res
 
 def analyze_fit(path):
