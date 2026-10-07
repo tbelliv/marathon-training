@@ -59,7 +59,7 @@ HR 156–163 (race cruise band; threshold 172–175: 175 at sea level, 172–174
 | Thu 8 | Atomic Track Club · Strength light |
 | Fri 9 | 4 easy |
 | Sat 10 | 4 easy + strides |
-| Sun 11 | **Last long run — Boreas Pass Road, Breckenridge** (`oct11-boreas-pass.gpx`): 16.5 mi out-and-back, 9,710 → 11,478 ft, 1,784 ft, dirt road: mi 1–2 at 6%, mi 3–8 a steady 3%, then back down. **2 easy (130–150) / 60 s stop / 6 at race effort up the 3% to the pass / 7 easy down (140–155, pace held above 7:45, quads protected) / 1.3 easy on the 8% pitch to the car.** Block mi 1 restart 156–165; mi 2–6 at 156–163, hold 160, short quick steps (= Oasis → The Pit). At 10–11.5k ft expect 9:00–10:30 on the climb, that is correct. Pit check today is drift, not pace: pace-per-beat block mi 2 vs mi 6 within 3% = GO. Race-day test: caffeine 200 mg 45–60 min pre, famotidine night before + breakfast, race breakfast, race gels, Adios Pro 4. 10–25 °F and wind at the pass, possible snow on the upper road: gloves, hat, shell, gels against the body. Nothing new after today |
+| Sun 11 | **Last long run — Boreas Pass Road, Breckenridge** (`oct11-boreas-pass.gpx`): 16.5 mi out-and-back, 9,710 → 11,478 ft, 1,784 ft, dirt road: mi 1–2 at 6%, mi 3–8 a steady 3%, then back down. **2 easy (130–150) / 60 s stop / 6 at race effort up the 3% to the pass / 7 easy down (140–155, pace held above 7:45, quads protected) / 1.3 easy on the 8% pitch to the car.** Block mi 1 restart 156–165; mi 2–6 at 156–163, hold 160, short quick steps (= Oasis → The Pit). At 10–11.5k ft expect 9:00–10:30 on the climb, that is correct. Pit check today is drift, not pace: pace-per-beat block mi 2 vs mi 6 within 3% = GO. Race-day test: caffeine 200 mg 45–60 min pre, famotidine night before + breakfast, race breakfast, race gels, Rocket X Trail (the race shoe, per the Hemmings). 10–25 °F and wind at the pass, possible snow on the upper road: gloves, hat, shell, gels against the body. Nothing new after today |
 
 ## W4 · Oct 12–18 · ~35 mi · taper
 
@@ -81,7 +81,7 @@ HR 156–163 (race cruise band; threshold 172–175: 175 at sea level, 172–174
 | Tue 20 | Atomic Track Club — **warm-up, 4 × 1 min at race effort, cool-down. Skip the set** (~5 mi) |
 | Wed 21 | 4 easy |
 | Thu 22 | Atomic Track Club — **warm-up + 4 strides only. No set, no strength** (~3 mi) |
-| Fri 23 | Moab. 2 mi shakeout on the first mile of the course. Drop bag (Rocket X Trail) to The Pit |
+| Fri 23 | Moab. 2 mi shakeout on the first mile of the course in the Rocket X Trail. Drop bag to The Pit: fresh flask, two gels, Tums. No shoe change on race day |
 | **Sat 24** | **Race. 7 AM. 3:20** |
 
 ## Rules

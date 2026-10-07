@@ -4,7 +4,7 @@
 
 **Target: 3:20:00 — finish 10:20 AM**
 Source: ultraPacer, plan 1.0 — https://ultrapacer.com/course/6a95d9d7c639e252d553c7d4?plan=6a95da46c639e252d553cb5f
-Shoes: Adidas Adios Pro 4 · Drop bag at The Pit: Hoka Rocket X Trail
+Shoes: **Hoka Rocket X Trail, all day.** The course record holders (the Hemmings, Oct 7): the road is sandier, rockier and more uneven than it looks, and a road shoe is a liability on the descents; they would take the trail shoe for the whole course. Adios Pro 4 stays home. No shoe change at The Pit. Drop bag at The Pit: fresh flask, two gels, Tums.
 Loaded in COROS as the Oct 24 workout **"Claude Coach Moab Marathon"** (one section per mile, ultraPacer pace ±10 s/mi).
 
 ## Aid stations (ultraPacer arrival)
