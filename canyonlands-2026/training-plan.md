@@ -59,7 +59,7 @@ HR 156–163 (race cruise band; threshold 172–175: 175 at sea level, 172–174
 | Thu 8 | Atomic Track Club · Strength light |
 | Fri 9 | 4 easy |
 | Sat 10 | 4 easy + strides |
-| Sun 11 | **Last long run — Eleven Mile Canyon out-and-back** (`elevenmile.gpx`): 17.7 mi, ~900 ft each way, 7,950–8,500 ft, dirt road, steady 1% up to the turn at mile 8.8 and 1% back down. **4 easy (125–145) / 60 s stop / 8 at race effort / 5.7 easy.** The 8 on the watch mile by mile: block mi 1 restart 156–165; mi 2–5 climbing gently 156–163, hold 160 (= Oasis → The Pit; on pace at ≤162 on mi 4–5 = GO on race day); turn at the end of the road, gel, no stop; mi 6–8 descending 148–158, pace capped 7:00 (= The Pit → finish). Race-day test: caffeine 200 mg 45–60 min pre, famotidine night before + breakfast, race breakfast, race gels, Adios Pro 4. Nothing new after today |
+| Sun 11 | **Last long run — Leadville loop** (`oct11-leadville.gpx`): 15.4 mi, 9,775–9,970 ft, ~550 ft total, nearly flat, nothing steeper than a short 6%. **4 easy (125–145) / 60 s stop / 8 at race effort / 3.4 easy.** The 8 on the watch mile by mile: block mi 1 restart 156–165; mi 2–5 flat to gently rising to the high point at route mi 9, 156–163, hold 160 (= Oasis → The Pit; on pace at ≤162 on mi 4–5 = GO on race day); mi 6–8 gently falling 152–160 (= The Pit → finish). At 10,000 ft expect 7:50–8:20 at the band, that is correct. Race-day test: caffeine 200 mg 45–60 min pre, famotidine night before + breakfast, race breakfast, race gels, Adios Pro 4. Gloves, gels against the body. Nothing new after today |
 
 ## W4 · Oct 12–18 · ~35 mi · taper
 
