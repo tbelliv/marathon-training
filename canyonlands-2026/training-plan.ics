@@ -250,9 +250,12 @@ UID:53d4275c-45f6-5f84-b021-cf9934b2b08e@canyonlands2026
 DTSTAMP:20260922T203638Z
 DTSTART;TZID=America/Denver:20261013T174500
 DTEND;TZID=America/Denver:20261013T184500
-SUMMARY:Atomic Track Club — TAPER (warm-up + half set)
-DESCRIPTION:~5 mi. Warm-up\, about half of the coach's main set\, cool-down
- . Keep the speed\, cut the volume.
+SUMMARY:Atomic Track Club — last real workout (full set at prescribed pac
+ e)
+DESCRIPTION:Eleven days out. Full session at the coach's prescribed paces\,
+  not a second faster\, if the fast running is 5 km or less. Bigger than th
+ at\, or the 5k-pace urge at rep two: half the set. The constraint is the p
+ ace\, not the rep count. ~6 mi.
 END:VEVENT
 BEGIN:VEVENT
 UID:823bccb6-29e8-5337-aeb5-6f9746776ac0@canyonlands2026
