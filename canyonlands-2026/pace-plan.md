@@ -77,7 +77,7 @@ Average 7:35. Range 6:10–9:31. Arrival times MDT, from ultraPacer.
 | Sun 18 | 10 easy + 3 at 156–163 | Sleep banking starts: 9 h in bed every night through Thu. Nothing new from here. |
 | Mon 19 | off | Strength: upper body and core only, 20 min. No bar, no hops, no calves. Last session. |
 | Tue 20 | Atomic: warm-up, 4 × 1 min at race effort, cool-down (~5) | Normal eating, normal coffee. |
-| Wed 21 | 4 easy, under 135 | Last normal day. Pack: Rocket X Trail, race kit, aeroswift singlet, gloves, arm sleeves, vest, 2 flasks, 8 gels, Tums, famotidine, caffeine tablets, chargers, drop-bag items. |
+| Wed 21 | 4 easy, under 135 | **Carb-load ramp from lunch: 6–7 g/kg = 450–520 g,** vegetables and salad out, rice and bread in. Pack: Rocket X Trail, race kit, aeroswift singlet, gloves, arm sleeves, vest, 2 flasks, 8 gels, Tums, famotidine, caffeine tablets, chargers, drop-bag items. |
 | Thu 22 | Atomic: warm-up + 4 strides only (~3) | **Carb load day 1 of 2:** 8–10 g/kg = 600–740 g carbs, low fat, low fiber. White rice, bread, pasta (no red sauce), juice, sports drink, bananas, pretzels. Little Strength on the calendar: do 10 min of planks and band work only, or skip. |
 | Fri 23 | Drive to Moab (~5.5 h), 2 mi shakeout on the first mile of the course in the Rocket X Trail | **Carb load day 2:** same, eaten by 7 pm. Dinner per the race-eve rule. Drop bag to The Pit: fresh flask, 2 gels, Tums. Watch charged, course on the watch, race card synced. Famotidine 20 mg at bedtime. Alarm 3:45. |
 | **Sat 24** | **Race, 7 AM** | See the morning timeline below. |
