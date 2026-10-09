@@ -311,7 +311,9 @@ DTSTAMP:20260922T203638Z
 DTSTART;TZID=America/Denver:20261019T173000
 DTEND;TZID=America/Denver:20261019T181500
 SUMMARY:Strength — very light\, upper/core — LAST ONE
-DESCRIPTION:Upper body and core only. Nothing after today.
+DESCRIPTION:Upper body and core only\, 20 min. No bar\, no hops\, no calves
+ . Last strength session before the race. Sleep 9 h every night Sun 18 to T
+ hu 22.
 END:VEVENT
 BEGIN:VEVENT
 UID:42962d61-7c09-5577-b6de-c02ac44b52db@canyonlands2026
@@ -328,7 +330,9 @@ DTSTAMP:20260922T203638Z
 DTSTART;TZID=America/Denver:20261021T070000
 DTEND;TZID=America/Denver:20261021T074000
 SUMMARY:Easy 4
-DESCRIPTION:4 mi easy\, HR under 135.
+DESCRIPTION:Four miles easy\, HR under 135. Pack tonight: Rocket X Trail\, 
+ race kit\, gloves\, arm sleeves\, vest\, 2 flasks\, 8 gels\, Tums\, famoti
+ dine\, caffeine tablets\, chargers\, drop-bag items.
 END:VEVENT
 BEGIN:VEVENT
 UID:163e9792-cdac-5e19-8777-3e87014ce9f6@canyonlands2026
@@ -336,8 +340,9 @@ DTSTAMP:20260922T203638Z
 DTSTART;TZID=America/Denver:20261022T061500
 DTEND;TZID=America/Denver:20261022T065500
 SUMMARY:Atomic Track Club — RACE WEEK (warm-up + strides only)
-DESCRIPTION:~3 mi. Warm-up with the group\, 4 × 20 s strides\, cool-down. 
- No set. No strength tonight.
+DESCRIPTION:~3 mi. Warm-up with the group\, 4 x 20 s strides\, cool-down. N
+ o set. Little Strength tonight: 10 min planks and bands only\, or skip. CA
+ RB LOAD DAY 1: 600 to 740 g carbs\, low fat\, low fiber.
 END:VEVENT
 BEGIN:VEVENT
 UID:2ec4f86f-ac0a-591a-8b6a-9a5c3c80a55e@canyonlands2026
@@ -345,9 +350,11 @@ DTSTAMP:20260922T203638Z
 DTSTART;TZID=America/Denver:20261023T080000
 DTEND;TZID=America/Denver:20261023T083000
 SUMMARY:Moab shakeout — first mile of the course
-DESCRIPTION:2 mi very easy\, out and back on the first mile. Feel the sandy
-  top layer in the race shoes. Drop bag at The Pit: fresh flask\, two gels\
- , Tums. Rocket X Trail all day\, no shoe change.
+DESCRIPTION:Drive to Moab. Two miles very easy on the first mile of the cou
+ rse in the Rocket X Trail. CARB LOAD DAY 2\, done by 7 pm\, no red sauce. 
+ Drop bag to The Pit: fresh flask\, two gels\, Tums. No shoe change on race
+  day. Watch charged\, race card synced. Famotidine 20 mg at bedtime. Alarm
+  3:45.
 END:VEVENT
 BEGIN:VEVENT
 UID:49443454-12bf-530f-8f99-c14c67768fe0@canyonlands2026
@@ -355,15 +362,18 @@ DTSTAMP:20260922T203638Z
 DTSTART;TZID=America/Denver:20261024T070000
 DTEND;TZID=America/Denver:20261024T103000
 SUMMARY:RACE — Canyonlands Ultra Marathon — 3:20
-DESCRIPTION:7 AM start. Skip Buttes. Mile 2 at 9:25\, let the field go. Mil
- es 10–11 at 7:03 / 6:38. The Pit ~57:30\, Oasis ~2:04:50\, The Pit ~2:44
- :00\, 60 s each. HR bands (threshold 175): mi 0–5 sit 152–158 (ceiling
-  162)\; mi 5–16 156–163 (166\, 168 briefly on climbs)\; mi 16–21 158
- –165 (168)\; descents 148–153\; whole-race avg 158–162. The Pit 21.2
-  = determination line: GO if on pace at ≤162 on mi 18–20\, no quad gra
- b\, mile-19 gel down\, cadence 173+ → 165–175 to the line (178 on the 
- mile 22 climb). HOLD → 158–163. Gels at 9\, 14\, 19\, 23. Oasis decisi
- on: on plan → run it\; >2 min back → 8:00–8:15 home\, HR ≤158. Adi
- os Pro 4.
+DESCRIPTION:MORNING: 3:45 up\, famotidine\, 500 ml water. 4:00 breakfast 12
+ 0 to 150 g carbs (bagel\, honey\, banana\, sports drink). 5:30 leave. 6:00
+  caffeine 200 mg\, no coffee. 6:15 kit\, tape\, Rocket X Trail heel-lock\,
+  Tums in pocket. 6:35 10 min jog\, 4 strides\, 1 gel. 6:55 line up front. 
+ 7 AM start. Skip Buttes. Mile 2 at 9:25\, let the field go. Miles 10–11 
+ at 7:03 / 6:38. The Pit ~57:30\, Oasis ~2:04:50\, The Pit ~2:44:00\, 60 s 
+ each. HR bands (threshold 175): mi 0–5 sit 152–158 (ceiling 162)\; mi 
+ 5–16 156–163 (166\, 168 briefly on climbs)\; mi 16–21 158–165 (168
+ )\; descents 148–153\; whole-race avg 158–162. The Pit 21.2 = determin
+ ation line: GO if on pace at ≤162 on mi 18–20\, no quad grab\, mile-19
+  gel down\, cadence 173+ → 165–175 to the line (178 on the mile 22 cli
+ mb). HOLD → 158–163. Gels at 9\, 14\, 19\, 23. Oasis decision: on plan
+  → run it\; >2 min back → 8:00–8:15 home\, HR ≤158. Adios Pro 4.
 END:VEVENT
 END:VCALENDAR

@@ -69,6 +69,32 @@ Average 7:35. Range 6:10–9:31. Arrival times MDT, from ultraPacer.
  **On the watch:** the COROS race-day card targets these bands mile by mile (miles 10–11 set to 148–158 so the descent does not alarm; miles 22–26 set to 158–175 to cover both HOLD and GO); the ultraPacer mile paces are in the card description. Altitude note: every long run in the record was at 8,300–9,500 ft, where max and sustained heart rate run several beats below sea level; the course sits at 5,300 ft, so the mountain numbers understate what is available on race day. Threshold (175) is the GO ceiling from The Pit and nothing before it. Drift of 3–5% at fixed pace after 2 h is expected: 158 at mile 8 and 165 at mile 20 are the same effort.
 - **Fuel:** 60–90 g carb/hr from mile 0. Gels at miles 9, 14, 19, 23 — before each climb.
 - **Race-eve dinner (Fri Oct 23):** no tomato sauce. The Oct 4 heartburn traced to red-sauce pasta the night before; Tums fixed it. Plain pasta or rice with olive oil or butter and salt, chicken, bread; eaten by 7 pm for the 7 am start. Two Tums ride in the flask pocket on race day. Backstop: famotidine 20 mg the night before and 60–90 min pre-start, trialled on the Oct 11 long run first.
+
+## Race week, day by day
+
+| Day | Running | Everything else |
+|---|---|---|
+| Sun 18 | 10 easy + 3 at 156–163 | Sleep banking starts: 9 h in bed every night through Thu. Nothing new from here. |
+| Mon 19 | off | Strength: upper body and core only, 20 min. No bar, no hops, no calves. Last session. |
+| Tue 20 | Atomic: warm-up, 4 × 1 min at race effort, cool-down (~5) | Normal eating, normal coffee. |
+| Wed 21 | 4 easy, under 135 | Last normal day. Pack: Rocket X Trail, race kit, aeroswift singlet, gloves, arm sleeves, vest, 2 flasks, 8 gels, Tums, famotidine, caffeine tablets, chargers, drop-bag items. |
+| Thu 22 | Atomic: warm-up + 4 strides only (~3) | **Carb load day 1 of 2:** 8–10 g/kg = 600–740 g carbs, low fat, low fiber. White rice, bread, pasta (no red sauce), juice, sports drink, bananas, pretzels. Little Strength on the calendar: do 10 min of planks and band work only, or skip. |
+| Fri 23 | Drive to Moab (~5.5 h), 2 mi shakeout on the first mile of the course in the Rocket X Trail | **Carb load day 2:** same, eaten by 7 pm. Dinner per the race-eve rule. Drop bag to The Pit: fresh flask, 2 gels, Tums. Watch charged, course on the watch, race card synced. Famotidine 20 mg at bedtime. Alarm 3:45. |
+| **Sat 24** | **Race, 7 AM** | See the morning timeline below. |
+
+### Race morning timeline (start 7:00 AM)
+
+| Time | Do |
+|---|---|
+| 3:45 | Up. Famotidine 20 mg. Water 500 ml. |
+| 4:00 | Breakfast, 120–150 g carbs: bagel with honey, banana, sports drink. Same as Oct 11. Nothing fatty. |
+| 5:30 | Leave. Sip 500 ml sports drink in the car. |
+| 6:00 | Caffeine 200 mg tablet. No coffee on top. |
+| 6:15 | Kit on, Leukotape on the toes, Rocket X Trail laced heel-lock. Tums in the flask pocket. |
+| 6:35 | 10 min jog, 4 strides, 1 gel with the last of the drink. |
+| 6:55 | Line up at the front. Watch on the race card. Mile 1 at 152–158. |
+
+Nothing in this section is new. Every item was tested on Oct 11.
 - **Hydration:** one 500 ml flask from the start. Both flasks at The Pit and Oasis. One at The Pit (2nd).
 
 ## Decision points
