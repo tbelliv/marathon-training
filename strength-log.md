@@ -9,7 +9,7 @@ Scale: 2 = light PT, 4 = normal Thursday, 5–6 = normal Monday, 7 = a heavy Mon
 | Mon Oct 5 | Back PT | 42 | 20 | 91 | — | 3 | 126 | — | separate session, earlier in the day |
 | Mon Oct 5 | Big Strength | 57 | 41 | 89 | 13 | 5 | 285 | 4×5 @ 60 kg (135 lb), fast | first trap-bar session, technique only, no hops. Plus rows 4×10 @ 45 lb |
 | Wed Oct 7 | Upper body | 14 | 15 | 100 | — | 3* | 42 | — | bench 3×10–12 @ 43 kg, one-arm row 6 sets @ 18 kg, Arnold press 3×9 @ 12 kg, pull-ups 3 sets |
-| Thu Oct 8 | Little Strength | ~60* | 42 | — | — | 4* | ~240 | — | PT circuit as built; watch not yet synced, minutes and HR to fill in. Felt strong, limber, springy despite Tue track, Wed too-fast easy, Thu track |
+| Thu Oct 8 | Little Strength | 57 | 42 | 100 | — | 4* | 228 | — | PT circuit as built. Felt strong, limber, springy despite Tue track, Wed too-fast easy, Thu track |
 
 \* assumed, confirm or correct.
 
@@ -17,7 +17,7 @@ Scale: 2 = light PT, 4 = normal Thursday, 5–6 = normal Monday, 7 = a heavy Mon
 
 | Week | Sessions | Strength load | Running load (COROS) | Notes |
 |---|---|---|---|---|
-| Oct 5–11 | 4 so far | ~690 so far | | last hard week; Boreas Sun |
+| Oct 5–11 | 4 so far | 681 so far | | last hard week; Boreas Sun |
 
 ## Rules for reading it
 
