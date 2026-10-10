@@ -68,7 +68,7 @@ HR 156–163 (race cruise band; threshold 172–175: 175 at sea level, 172–174
 | Mon 12 | Strength, light |
 | Tue 13 | Atomic Track Club — **the last real workout, 11 days out.** Full session at the coach's prescribed paces, not a second faster, if the fast running is 5 km or less. Bigger than that, or the 5k-pace urge shows up at rep two: half the set. The constraint is the pace, not the rep count (~6 mi) |
 | Wed 14 | 5 easy |
-| Thu 15 | Atomic Track Club — warm-up + half the set (~5 mi) · Strength very light or skip |
+| Thu 15 | Atomic Track Club — warm-up + half the set (~5 mi) · Little Strength: calves, bands, core only. No single-leg deadlifts, no Bulgarians (hamstring soreness from Oct 8 lasted into Oct 10) |
 | Fri 16 | 3 easy |
 | Sat 17 | 4 easy + strides |
 | Sun 18 | 10 easy + 3 at race effort, mile by mile in the cruise band 156–163 |

@@ -62,7 +62,7 @@ The existing "Run Strength" circuit, unchanged in content, lighter in intent. 20
 | 8 | Side plank, each side | 3×60 s | |
 | 9 | Scapular push-ups 2×15, band pull-aparts 2×20, book openers 2×10 each, supermans 2×12 | | |
 
-Thursday never gets heavier than 20 lb. It is tissue maintenance and it should leave Friday's easy run untouched. Progress it by control (slower lowering, pause at the bottom) rather than load.
+Thursday never gets heavier than 20 lb. In the three days before a long run or a race, drop the single-leg deadlifts and Bulgarians: the eccentric soreness from them peaks 48 hours later, which is the long run. It is tissue maintenance and it should leave Friday's easy run untouched. Progress it by control (slower lowering, pause at the bottom) rather than load.
 
 ---
 
