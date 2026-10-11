@@ -59,7 +59,7 @@ Second estimate, independent of best efforts: grade-adjusted speed regressed on 
 | 172 | 6:45 /mi |
 | 175 | 6:33 /mi |
 
-Read the two together: the best-effort fit is a floor set by the hardest continuous run in the record; the heart-rate curve is what the whole body of training says the threshold is. The truth is usually between them and closer to the curve. COROS threshold pace: 6:38 /mi.
+Read the two together: the best-effort fit is a floor set by the hardest continuous run in the record; the heart-rate curve is what the whole body of training says the threshold is. The truth is usually between them and closer to the curve. COROS threshold pace: 6:18 /mi.
 
 ## 3. VO2max and race equivalents (Daniels VDOT, altitude-corrected)
 
@@ -79,7 +79,7 @@ Every effort in the record is sub-maximal (the 10k was run tired, Falmouth was h
 | Half | 1:26:02 | 1:22:58 | 1:28:47 |
 | Marathon | 2:59:31 | 2:53:15 | 3:05:15 |
 
-COROS predictions for comparison: 5k 19:39 · 10k 40:36 · half 1:30:05 · marathon 3:07:54.
+COROS predictions for comparison: 5k 18:38 · 10k 38:26 · half 1:24:55 · marathon 2:56:21.
 
 ## 4. Economy proxy: grade-adjusted pace per heartbeat
 
