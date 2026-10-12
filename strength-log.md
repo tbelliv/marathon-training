@@ -10,6 +10,7 @@ Scale: 2 = light PT, 4 = normal Thursday, 5–6 = normal Monday, 7 = a heavy Mon
 | Mon Oct 5 | Big Strength | 57 | 41 | 89 | 13 | 5 | 285 | 4×5 @ 60 kg (135 lb), fast | first trap-bar session, technique only, no hops. Plus rows 4×10 @ 45 lb |
 | Wed Oct 7 | Upper body | 14 | 15 | 100 | — | 3* | 42 | — | bench 3×10–12 @ 43 kg, one-arm row 6 sets @ 18 kg, Arnold press 3×9 @ 12 kg, pull-ups 3 sets |
 | Thu Oct 8 | Little Strength | 57 | 42 | 100 | — | 4* | 228 | — | PT circuit as built. Felt strong, limber, springy despite Tue track, Wed too-fast easy, Thu track |
+| Mon Oct 12 | Strength (back PT, am) | 20 | 14 | 83 | — | 3* | 60 | — | morning session before Big Strength tonight |
 
 \* assumed, confirm or correct.
 
@@ -17,6 +18,7 @@ Scale: 2 = light PT, 4 = normal Thursday, 5–6 = normal Monday, 7 = a heavy Mon
 
 | Week | Sessions | Strength load | Running load (COROS) | Notes |
 |---|---|---|---|---|
+| Oct 12–18 | 1 so far | 60 so far | | taper week 1 |
 | Oct 5–11 | 4 so far | 681 so far | | last hard week; Boreas Sun |
 
 ## Rules for reading it
