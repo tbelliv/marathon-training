@@ -10,3 +10,5 @@ date,hrv_ms,baseline_ms,range_lo,range_hi,status
 2026-10-10,84,83,76,90,normal
 2026-10-11,73,84,77,91,below
 2026-10-12,93,84,77,91,above
+2026-10-13,99,84,77,91,above
+2026-10-14,85,84,76,92,normal
