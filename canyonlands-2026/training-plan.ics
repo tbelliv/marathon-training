@@ -292,8 +292,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8c73fdff-59cd-54f8-ba8d-da751d72c94a@canyonlands2026
 DTSTAMP:20260922T203638Z
-DTSTART;TZID=America/Denver:20261017T070000
-DTEND;TZID=America/Denver:20261017T075000
+DTSTART;TZID=America/Denver:20261018T070000
+DTEND;TZID=America/Denver:20261018T075000
 SUMMARY:Easy 4 + strides
 DESCRIPTION:4 mi easy\, then 6 × 20 s strides (~5:50/mi) with a full minut
  e between.
@@ -301,8 +301,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7fd59919-bb62-5dde-b20f-aeae1a7fc75d@canyonlands2026
 DTSTAMP:20260922T203638Z
-DTSTART;TZID=America/Denver:20261018T071500
-DTEND;TZID=America/Denver:20261018T090000
+DTSTART;TZID=America/Denver:20261017T071500
+DTEND;TZID=America/Denver:20261017T090000
 SUMMARY:10 easy + 3 at race effort
 DESCRIPTION:10 mi easy (HR 125–145)\, then 3 at race effort\, mile by mil
  e in the cruise band HR 156–163 (~7:35–7:50/mi on Boulder rolling dirt
