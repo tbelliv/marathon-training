@@ -68,7 +68,7 @@ HR 156–163 (race cruise band; threshold 172–175: 175 at sea level, 172–174
 | Mon 12 | Strength, light |
 | Tue 13 | Atomic Track Club — **the last real workout, 11 days out.** Full session at the coach's prescribed paces, not a second faster, if the fast running is 5 km or less. Bigger than that, or the 5k-pace urge shows up at rep two: half the set. The constraint is the pace, not the rep count (~6 mi) |
 | Wed 14 | 5 easy |
-| Thu 15 | **DONE:** 6 × 1000 m (3:54, 3:47, 3:57, 3:38, then 4:20 and 4:41 eased) on ~2:15 rest, 1.5 mi warm-up, 1.4 mi cool-down, 6.7 mi total, avg HR 150. Felt flat (under-ate Wed), cold and rain, wrist HR dropping out. Planned: Atomic Track Club — warm-up + half the set (~5 mi) · Little Strength: calves, bands, core only. No single-leg deadlifts, no Bulgarians (hamstring soreness from Oct 8 lasted into Oct 10) |
+| Thu 15 | **DONE:** 6 × 1000 m (3:54, 3:47, 3:57, 3:38, then 4:20 and 4:41 eased) on ~2:15 rest, 1.5 mi warm-up, 1.4 mi cool-down, 6.7 mi total, avg HR 150. Felt flat (under-ate Wed, nicotine taper started this week; hold the dose steady Sat 17 → race day, resume cutting after Moab), cold and rain, wrist HR dropping out. Trainers, not plates, Tue and Thu by design. Planned: Atomic Track Club — warm-up + half the set (~5 mi) · Little Strength: calves, bands, core only. No single-leg deadlifts, no Bulgarians (hamstring soreness from Oct 8 lasted into Oct 10) |
 | Fri 16 | 3 easy |
 | Sat 17 | 10 easy + 3 at race effort, mile by mile in the cruise band 156–163. With a friend for the easy 10; the 3 are on your bands |
 | Sun 18 | 4 easy + strides |
