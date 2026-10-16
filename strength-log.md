@@ -13,6 +13,8 @@ Scale: 2 = light PT, 4 = normal Thursday, 5–6 = normal Monday, 7 = a heavy Mon
 | Mon Oct 12 | Strength (back PT, am) | 20 | 14 | 83 | — | 3* | 60 | — | morning session before Big Strength tonight |
 | Mon Oct 12 | Big Strength | 56 | 41 | 90 | — | 4* | 224 | 3×5 @ 60 kg | taper version, no hops |
 | Tue Oct 13 | Back PT (am) | 16 | 9 | 78 | — | 2* | 32 | — | |
+| Thu Oct 15 | Little Strength | — | — | — | — | — | 0 | — | skipped (flat day) |
+| Fri Oct 16 | Back PT, very light | 15 | 2 | — | — | — | 30 | — | est.; no single-leg deadlifts, no Bulgarians |
 
 \* assumed, confirm or correct.
 
@@ -20,7 +22,7 @@ Scale: 2 = light PT, 4 = normal Thursday, 5–6 = normal Monday, 7 = a heavy Mon
 
 | Week | Sessions | Strength load | Running load (COROS) | Notes |
 |---|---|---|---|---|
-| Oct 12–18 | 3 so far | 316 so far | | taper week 1 |
+| Oct 12–18 | 5 so far | 346 so far | | taper week 1. Thu 15 Little Strength skipped (flat day); very light PT Fri 16 instead |
 | Oct 5–11 | 4 so far | 681 so far | | last hard week; Boreas Sun |
 
 ## Rules for reading it
