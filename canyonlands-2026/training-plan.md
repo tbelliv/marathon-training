@@ -70,7 +70,7 @@ HR 156–163 (race cruise band; threshold 172–175: 175 at sea level, 172–174
 | Wed 14 | 5 easy |
 | Thu 15 | **DONE:** 6 × 1000 m (3:54, 3:47, 3:57, 3:38, then 4:20 and 4:41 eased) on ~2:15 rest, 1.5 mi warm-up, 1.4 mi cool-down, 6.7 mi total, avg HR 150. Felt flat (under-ate Wed, nicotine taper started this week; hold the dose steady Sat 17 → race day, resume cutting after Moab), cold and rain, wrist HR dropping out. Trainers, not plates, Tue and Thu by design. Planned: Atomic Track Club — warm-up + half the set (~5 mi) · Little Strength: calves, bands, core only. No single-leg deadlifts, no Bulgarians (hamstring soreness from Oct 8 lasted into Oct 10) |
 | Fri 16 | 3 easy |
-| Sat 17 | 10 easy + 3 at race effort, mile by mile in the cruise band 156–163. With a friend for the easy 10; the 3 are on your bands |
+| Sat 17 | **Evergreen** (`oct17-evergreen.gpx`, 13.0 mi, ~1,190 ft): one loop downtown → lake → Dedisse climb → Three Sisters → Buffalo Park Rd down (8.75 easy, with a friend), then 3.2 flat along the lake out-and-back at race effort, mile by mile in the cruise band 156–163, then 1 easy. Rocket X Trail. |
 | Sun 18 | 4 easy + strides |
 
 ## Race week · Oct 19–24 · ~14 mi
