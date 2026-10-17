@@ -18,6 +18,7 @@ jobs:
       - name: Fetch Open-Meteo forecast for the course start (38.416, -109.464, ~5,400 ft)
         run: |
           set -e
+          mkdir -p canyonlands-2026/weather
           BASE="https://api.open-meteo.com/v1/forecast?latitude=38.4163&longitude=-109.4639&elevation=1645"
           HOURLY="temperature_2m,apparent_temperature,relative_humidity_2m,dew_point_2m,precipitation,precipitation_probability,cloud_cover,wind_speed_10m,wind_direction_10m,wind_gusts_10m,soil_moisture_0_to_1cm,shortwave_radiation"
           DAILY="temperature_2m_max,temperature_2m_min,precipitation_sum,precipitation_probability_max,wind_speed_10m_max,wind_gusts_10m_max,wind_direction_10m_dominant,sunrise,sunset"
