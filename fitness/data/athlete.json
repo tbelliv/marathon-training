@@ -1,35 +1,36 @@
 {
- "name": "Tim",
- "mass_kg": 74,
- "hr_rest": 47,
- "hr_max": 192,
- "lthr_low": 172,
- "lthr_high": 175,
- "home_altitude_ft": 5400,
- "races": [
-  {
-   "date": "2026-10-24",
-   "name": "Canyonlands Ultra Marathon",
-   "dist_mi": 25.99,
-   "goal": "3:20"
-  },
-  {
-   "date": "2026-11-26",
-   "name": "Highland Park Turkey Trot 5k, IL (benchmark, sea level, 3 turns, flat)",
-   "dist_mi": 3.107,
-   "goal": "sub-17:00 (5:28/mi), B 17:20. 2025: ~19:20"
-  },
-  {
-   "date": "2027-02-21",
-   "name": "Ventura Marathon",
-   "dist_mi": 26.22,
-   "goal": "2:50"
+  "name": "Tim",
+  "mass_kg": 74,
+  "hr_rest": 47,
+  "hr_max": 192,
+  "lthr_low": 172,
+  "lthr_high": 175,
+  "home_altitude_ft": 5400,
+  "races": [
+    {
+      "date": "2026-10-24",
+      "name": "Canyonlands Ultra Marathon",
+      "dist_mi": 25.99,
+      "goal": "3:20"
+    },
+    {
+      "date": "2026-11-26",
+      "name": "Highland Park Turkey Trot 5k, IL (benchmark, sea level, 3 turns, flat)",
+      "dist_mi": 3.107,
+      "goal": "sub-17:00 (5:28/mi), B 17:20. 2025: ~19:20",
+      "shoes": "Adidas Adios Pro 4 with KT tape over the hotspot (tested); run 2+ November 5k-pace sessions in them"
+    },
+    {
+      "date": "2027-02-21",
+      "name": "Ventura Marathon",
+      "dist_mi": 26.22,
+      "goal": "2:50"
+    }
+  ],
+  "self_reported_paces_2026_10_06": {
+    "5k_per_mi": "6:00",
+    "10k_per_mi": "6:15",
+    "half_per_mi": "6:30",
+    "note": "Boulder altitude, athlete estimate, not raced"
   }
- ],
- "self_reported_paces_2026_10_06": {
-  "5k_per_mi": "6:00",
-  "10k_per_mi": "6:15",
-  "half_per_mi": "6:30",
-  "note": "Boulder altitude, athlete estimate, not raced"
- }
 }
