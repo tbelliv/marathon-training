@@ -333,10 +333,12 @@ DTSTAMP:20260922T203638Z
 DTSTART;TZID=America/Denver:20261021T070000
 DTEND;TZID=America/Denver:20261021T074000
 SUMMARY:Easy 4
-DESCRIPTION:Four miles easy\, HR under 135. CARB-LOAD RAMP from lunch: 450 
- to 520 g carbs\, vegetables out\, rice and bread in. Pack tonight: Rocket 
- X Trail\, race kit\, gloves\, arm sleeves\, vest\, 2 flasks\, 8 gels\, Tum
- s\, famotidine\, caffeine tablets\, chargers\, drop-bag items.
+DESCRIPTION:Four miles easy\, HR under 135\, then 4 x 20 s strides on the f
+ lat in the Hyperion Max\, building not sprinting (skip if the Achilles fli
+ ck is still there this morning). CARB-LOAD RAMP from lunch: 450 to 520 g c
+ arbs\, vegetables out\, rice and bread in. Pack tonight: Rocket X Trail\, 
+ race kit\, gloves\, arm sleeves\, vest\, 2 flasks\, 8 gels\, Tums\, famoti
+ dine\, caffeine tablets\, chargers\, drop-bag items.
 END:VEVENT
 BEGIN:VEVENT
 UID:163e9792-cdac-5e19-8777-3e87014ce9f6@canyonlands2026
@@ -358,7 +360,7 @@ DESCRIPTION:Drive to Moab. Two miles very easy on the first mile of the cou
  rse in the Rocket X Trail. CARB LOAD DAY 2\, done by 7 pm\, no red sauce. 
  Drop bag to The Pit: fresh flask\, two gels\, Tums. No shoe change on race
   day. Watch charged\, race card synced. Famotidine 20 mg at bedtime. Alarm
-  3:45.
+  3:45. Plus 3 strides.
 END:VEVENT
 BEGIN:VEVENT
 UID:49443454-12bf-530f-8f99-c14c67768fe0@canyonlands2026
@@ -381,3 +383,4 @@ DESCRIPTION:MORNING: 3:45 up\, famotidine\, 500 ml water. 4:00 breakfast 12
   → run it\; >2 min back → 8:00–8:15 home\, HR ≤158. Adios Pro 4.
 END:VEVENT
 END:VCALENDAR
+
