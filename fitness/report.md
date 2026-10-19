@@ -133,8 +133,8 @@ The current frontier metric: how much grade-adjusted pace per beat decays per ho
 
 ## 6. Recovery: resting HR and sleep HRV
 
-Resting HR last 7 days **48.4** vs prior 5-week mean **49.3** (SD 1.5). Normal.
-Sleep HRV last reading 82 ms, baseline 86, normal range 79–93. Normal or above on every night this week.
+Resting HR last 7 days **48.1** vs prior 5-week mean **49.4** (SD 1.5). Normal.
+Sleep HRV last reading 87 ms, baseline 86, normal range 80–92. Normal or above on every night this week.
 
 ## 7. Strength load (session RPE)
 
