@@ -77,7 +77,7 @@ HR 156–163 (race cruise band; threshold 172–175: 175 at sea level, 172–174
 
 | Day | Session |
 |---|---|
-| Mon 19 | Strength, upper body and core only, 20 min. No bar, no hops, no calves. **Last one.** Sleep 9 h every night Sun 18–Thu 22 |
+| Mon 19 | Strength, upper body and core only, 20 min. No bar, no hops, no calves. **Last one.** Lower-body mobility and activation (leg swings, bodyweight bridges, light band abduction/adduction, ankle rocks, hip stretching, back PT) is fine every day through Friday, 10–15 min; no calf raises, pogo, single-leg loading or dropped-heel calf stretch. Sleep 9 h every night Sun 18–Thu 22 |
 | Tue 20 | Atomic Track Club — **warm-up, 4 × 1 min at race effort, cool-down. Skip the set** (~5 mi) |
 | Wed 21 | 4 easy, HR under 135. **Carb-load ramp from lunch: 450–520 g carbs.** Pack everything (list in `pace-plan.md`) |
 | Thu 22 | Atomic Track Club — **warm-up + 4 strides only. No set** (~3 mi). Little Strength on the calendar: 10 min planks and bands only, or skip. **Carb load day 1: 600–740 g carbs, low fat, low fiber** |
