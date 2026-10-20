@@ -9,11 +9,13 @@ Loaded in COROS as the Oct 24 workout **"Claude Coach Moab Marathon"** (one sect
 
 ## Aid stations (ultraPacer arrival)
 
+*Race update Oct 20: Oasis aid moved ~2 miles up the road (16.2 → 18.5). Course track, distance and splits unchanged; `course.gpx` replaced with the organiser's updated file.*
+
 | Stop | Mile | Arrive | Do |
 |---|---|---|---|
 | ~~Buttes~~ | 4.8 | ~7:37 AM | **Skip.** One flask from the gun, drink to thirst |
-| The Pit | 7.7 | **~7:58 AM** | Fill both flasks. Gel in hand for mile 9 |
-| Oasis | 16.2 | **~9:04 AM** | Fill both. Longest dry stretch is behind you |
+| The Pit | 7.7 | **~7:58 AM** | Fill both flasks: **10.8 mi / ~86 min to Oasis, the long dry stretch is now in front of you.** Gel in hand for mile 9 |
+| Oasis | **18.5** | **~9:24 AM** | Moved 2.3 mi up the road (race email, Oct 20). Top up one flask only if needed; The Pit is 2.7 mi on |
 | The Pit | 21.2 | **~9:44 AM** | One flask. Fluid *before* the climb, not on it |
 | Finish | 26.0 | **10:20 AM** | |
 
@@ -52,8 +54,8 @@ Average 7:35. Range 6:10–9:31. Arrival times MDT, from ultraPacer.
 | Segment | Sit in | Ceiling |
 |---|---|---|
 | Start → Buttes, mi 0–5 | 152–158 | 162 |
-| Buttes → Oasis, mi 5–16 | 156–163 | 166 (168 briefly on the mile 14–16 climbs) |
-| Oasis → The Pit, mi 16–21 | 158–165 | 168 |
+| Buttes → top of the climbs, mi 5–16 | 156–163 | 166 (168 briefly on the mile 14–16 climbs) |
+| Top of the climbs → The Pit, mi 16–21 (Oasis at 18.5) | 158–165 | 168 |
 | The Pit → finish, GO | 165–175 | 178 |
 | The Pit → finish, HOLD | 158–163 | 166 |
 
@@ -95,13 +97,13 @@ Average 7:35. Range 6:10–9:31. Arrival times MDT, from ultraPacer.
 | 6:55 | Line up at the front. Watch on the race card. Mile 1 at 152–158. |
 
 Nothing in this section is new. Every item was tested on Oct 11.
-- **Hydration:** one 500 ml flask from the start. Both flasks at The Pit and Oasis. One at The Pit (2nd).
+- **Hydration:** one 500 ml flask from the start. Both flasks full at The Pit (7.7): they must last 10.8 mi to Oasis at 18.5, which at 45–50 °F they will (about 0.7 L/h). Top up one at Oasis only if a flask is empty. One at The Pit (2nd).
 
 ## Decision points
 
 **The Pit, 7.7 — ~7:58 AM.** On plan between 7:57 and 7:59. Before 7:56 means mile 2 was too hard: back off 10 s/mi through mile 9.
 
-**Oasis, 16.2 — ~9:04 AM.** The real checkpoint.
+**Mile 16, top of the climbs — ~9:03 AM.** The real checkpoint (this was the old Oasis; the aid station is now 2.3 mi further on, the decision stays here).
 - On plan or ahead → run the back 10 as written. A-goal (3:14–3:17) is live from here, not before.
 - 1–2 min behind → hold the plan. Finish 3:21–3:22.
 - >2 min behind → 8:00–8:15 to the finish, HR ≤158. Finish ~3:27. CR by 23 min. Do not buy time back on mile 22.
@@ -110,6 +112,8 @@ Nothing in this section is new. Every item was tested on Oct 11.
 1. On plan pace at HR ≤162 on miles 18–20.
 2. No quad grab on the mile 16–17 descent.
 3. The mile-19 gel went down.
+
+**Oasis, 18.5 — ~9:24 AM.** Not a decision point. Quick top-up if a flask is empty, otherwise run through; 60 s here is only worth it if you need fluid for the mile 22 climb.
 4. Cadence 173+.
 
 GO → 165–175 to the line, ceiling 178 on the mile 22 climb. HOLD → 158–163, ceiling 166.
