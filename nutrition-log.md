@@ -23,6 +23,8 @@ Estimates are ±15%. MyFitnessPal screenshots override estimates when they arriv
 
 | Wed Oct 21 | Breakfast | 2 packets Signature Select apples & cinnamon instant oatmeal; banana; blueberries (~1 cup); 1.5 scoops up&up vanilla whey | 121 | 48 | 6 | 700 |
 
+| Thu Oct 22 | Breakfast | 365 tart cherry juice (8 oz); 1/2 Precision gel; plain bagel with raspberry jam | 113 | 11 | 2 | 515 |
+
 ## Daily totals
 
 | Date | Carbs | Protein | Fat | kcal | vs target |
@@ -30,3 +32,4 @@ Estimates are ±15%. MyFitnessPal screenshots override estimates when they arriv
 | Thu Oct 15 | 150+ | 105+ | 36+ | 1,300+ | breakfast only logged |
 | Fri Oct 16 | 123 so far | 56 so far | 5 so far | 760 so far | |
 | Wed Oct 21 | 121 so far | 48 so far | 6 so far | 700 so far | ramp day: 450–520 g carbs, fiber tapering (12 g already) |
+| Thu Oct 22 | 113 so far | 11 so far | 2 so far | 515 so far | carb load day 1: 600–740 g, fiber <20 (3 g so far) |
