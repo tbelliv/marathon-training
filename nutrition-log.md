@@ -20,9 +20,7 @@ Estimates are ±15%. MyFitnessPal screenshots override estimates when they arriv
 | Thu Oct 15 | Rest of day | not logged | | | | |
 | Fri Oct 16 | Breakfast | banana; Heritage Flakes (~1.5 cups); 0% Greek yogurt (~170 g); blueberries (~1 cup); honey (~1 tbsp) | 120 | 26 | 2 | 600 |
 | Fri Oct 16 | Late morning | Premier Protein shake | 3 | 30 | 3 | 160 |
-
 | Wed Oct 21 | Breakfast | 2 packets Signature Select apples & cinnamon instant oatmeal; banana; blueberries (~1 cup); 1.5 scoops up&up vanilla whey | 121 | 48 | 6 | 700 |
-
 | Thu Oct 22 | Breakfast | 365 tart cherry juice, whole 32 oz bottle over ~1 h (140 g); 1/2 Precision 90 gel (45 g). Too full for the bagel; moved to late morning | 185 | 0 | 0 | 740 |
 
 ## Daily totals
