@@ -29,6 +29,7 @@ Estimates are ±15%. MyFitnessPal screenshots override estimates when they arriv
 | Thu Oct 22 | Dinner | chicken parm (famotidine with it) | ~120 | ~45 | ~30 | ~950 |
 | Fri Oct 23 | Breakfast | small OJ; 3 slices white bread; plain bagel; 2 bananas | 174 | 15 | 3 | 800 |
 | Fri Oct 23 | Late morning | 2 waffles with syrup; banana; OJ; coconut water; water | 168 | 10 | 10 | 750 |
+| Fri Oct 23 | Midday | plain bagel | 55 | 10 | 1 | 280 |
 
 ## Daily totals
 
@@ -38,4 +39,4 @@ Estimates are ±15%. MyFitnessPal screenshots override estimates when they arriv
 | Fri Oct 16 | 123 so far | 56 so far | 5 so far | 760 so far | |
 | Wed Oct 21 | 121 so far | 48 so far | 6 so far | 700 so far | ramp day: 450–520 g carbs, fiber tapering (12 g already) |
 | Thu Oct 22 | ~610 | ~115 | ~68 | ~3,500 | load day 1 in range |
-| Fri Oct 23 | 342 so far | 25 so far | 13 so far | 1,550 so far | load day 2: 600–740 g, done by 7 pm, race-eve dinner rule carb load day 1: 600–740 g, fiber <20 (3 g so far) |
+| Fri Oct 23 | 397 so far | 35 so far | 14 so far | 1,830 so far | load day 2: 600–740 g, done by 7 pm, race-eve dinner rule carb load day 1: 600–740 g, fiber <20 (3 g so far) |
