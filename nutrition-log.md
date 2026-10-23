@@ -26,7 +26,8 @@ Estimates are ±15%. MyFitnessPal screenshots override estimates when they arriv
 | Thu Oct 22 | Midday | banana | 27 | 1 | 0 | 105 |
 | Thu Oct 22 | Lunch | Snarf's 6-in turkey on white | 55 | 28 | 18 | 500 |
 | Thu Oct 22 | Afternoon | banana; Electrolit-style electrolyte bottle; second half of the Snarf's turkey; Minute Maid OJ 12 oz | 152 | 31 | 18 | 875 |
-| Thu Oct 22 | Dinner | not logged | | | | |
+| Thu Oct 22 | Dinner | chicken parm (famotidine with it) | ~120 | ~45 | ~30 | ~950 |
+| Fri Oct 23 | Breakfast | small OJ; 3 slices white bread; plain bagel; 2 bananas | 174 | 15 | 3 | 800 |
 
 ## Daily totals
 
@@ -35,4 +36,5 @@ Estimates are ±15%. MyFitnessPal screenshots override estimates when they arriv
 | Thu Oct 15 | 150+ | 105+ | 36+ | 1,300+ | breakfast only logged |
 | Fri Oct 16 | 123 so far | 56 so far | 5 so far | 760 so far | |
 | Wed Oct 21 | 121 so far | 48 so far | 6 so far | 700 so far | ramp day: 450–520 g carbs, fiber tapering (12 g already) |
-| Thu Oct 22 | 487 + dinner | 70 + dinner | 38 + dinner | 2,550 + dinner | carb load day 1: 600–740 g, fiber <20 (3 g so far) |
+| Thu Oct 22 | ~610 | ~115 | ~68 | ~3,500 | load day 1 in range |
+| Fri Oct 23 | 174 so far | 15 so far | 3 so far | 800 so far | load day 2: 600–740 g, done by 7 pm, race-eve dinner rule carb load day 1: 600–740 g, fiber <20 (3 g so far) |
