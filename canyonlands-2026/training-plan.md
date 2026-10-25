@@ -82,7 +82,7 @@ HR 156–163 (race cruise band; threshold 172–175: 175 at sea level, 172–174
 | Wed 21 | **DONE:** 4.3 mi + strides, HR 134. **PT sign-off (final appt):** Achilles cleared, glute med cleared, back cleared, plan validated, legs cupped (no R8 tonight). 4 easy, HR under 135, then **4 × 20 s strides** on the flat in the Hyperion Max, building not sprinting (skip them if the Achilles flick is still there in the morning). **Carb-load ramp from lunch: 450–520 g carbs.** Pack everything (list in `pace-plan.md`) |
 | Thu 22 | **DONE:** 3.7 mi warm-up + strides, HR 134 (wrist sensor locked high in the cool-down; watch tighter and under the sleeve on race day). Planned: Atomic Track Club — **warm-up + 4 strides only. No set** (~3 mi). Little Strength on the calendar: 10 min planks and bands only, or skip. **Carb load day 1: 600–740 g carbs, low fat, low fiber** |
 | Fri 23 | Drive to Moab. 2 mi shakeout + **3 strides** on the first mile of the course in the Rocket X Trail. **Carb load day 2, done by 7 pm, race-eve dinner rule.** Drop bag to The Pit: fresh flask, two gels, Tums. Famotidine at bedtime, alarm 3:45. Full timeline in `pace-plan.md` |
-| **Sat 24** | **Race. 7 AM. 3:20.** Up 3:45, breakfast 4:00, caffeine 6:00, jog 6:35, line 6:55 |
+| **Sat 24** | **DNF at 22.9 mi (3:49:48).** Led through the half on the bands in heavy rain; adductor cramp at 13.6 at the foot of the Oasis climb after the wet-rock descents; untested salt pills + Skratch on top of gels → vomiting from ~19, walking from 21. Full read in `race-report.md`. Planned: Race. 7 AM. 3:20. |
 
 ## Rules
 
