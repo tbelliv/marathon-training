@@ -1,0 +1,88 @@
+# Ventura block — Oct 28, 2026 → Feb 21, 2027
+
+Goals: **Highland Park Turkey Trot 5k, Thu Nov 26 — sub-17:00** (sea level, flat, 3 turns; B 17:20). **Ventura Marathon, Sun Feb 21 — sub-2:50** (6:29/mi at sea level).
+Standing rules: HR is the governor, pace is the readout. Tue 5:45 PM and Thu 6:15 AM are Atomic Track Club: the coach's workout, with Thursday replaced by the tempo when his session isn't a threshold one. No Minetti. Nothing new on race day. Chest strap from November.
+
+## What changes from the Canyonlands block
+
+- **Mileage up:** 50 peak → 55 / 60 / 65 in November, 65–70 in January. Never more than 10% week on week; every 4th week −20%; long run ≤ 30% of the week. Your injury history is 50k-specific and every one of those came from volume added fast. This is the guard.
+- **A true tempo every week:** 20–40 min continuous at threshold, HR 168–175, 6:30–6:45/mi at 5,400 ft (COROS says 6:18, the HR curve says 6:33–6:46; run it by HR and let the pace tell us which is right). Thursday. Hyperion Max or Rebel, never the plates.
+- **Long runs with marathon-pace blocks from December.** Marathon pace at Boulder altitude ≈ 6:45/mi (6:29 at sea level), HR 160–168.
+- **Strength as written in `strength-plan.md`** (deadlift progression off 130 kg, Big Monday / Little Thursday) **plus adductor work every Monday:** Copenhagen plank 3 × 20 s each side, side-lying adduction 2 × 15. The muscle that cramped is the one the plan never loaded.
+- **Cramp and fuel tools tested in training, not in races:** Precision electrolyte capsules (1 per hour with water) on two November long runs; Maurten 320 in the bottles from December; pickle juice or mustard packet once on a long run; sweat-rate test (weigh before/after) on one cool and one warm long run.
+- **Easy means easy:** HR under 140 on every run that isn't the session.
+
+## Paces at 5,400 ft (sea-level equivalents in brackets)
+
+| | Pace | HR |
+|---|---|---|
+| Easy | 8:30–9:30 | <140 |
+| Marathon | 6:45 (6:29) | 160–168 |
+| Tempo / threshold | 6:30–6:45 (6:15–6:30) | 168–175 |
+| 5k | 5:40 (5:28) | — |
+| Strides | 5:00–5:20, 20 s | — |
+
+## Phase 1 — to Highland Park (Oct 28 – Nov 29)
+
+### W1 · Oct 26–Nov 1 · return · ~33 mi
+| Day | Session |
+|---|---|
+| Mon 26 | off |
+| Tue 27 | off |
+| Wed 28 | 5 easy, flat, under 140. **Adductor test:** silent the whole way and the next morning = Thursday is on |
+| Thu 29 | Atomic Track Club, 6:15 AM — full session if the leg passed Wednesday, else warm-up and cool-down only (~7) |
+| Fri 30 | 5 easy + 4 strides |
+| Sat 31 | 10 easy |
+| Sun 1 | 6 easy |
+
+### W2 · Nov 2–8 · ~52 mi
+| Day | Session |
+|---|---|
+| Mon 2 | 6 easy · **Big Strength** restarts: trap-bar deadlift 70 kg 3 × 8, squat moderate, calves, bands, Copenhagen planks, core |
+| Tue 3 | Atomic (coach's set, 5k-specific) ~8 |
+| Wed 4 | 8 easy |
+| Thu 5 | **Tempo:** 2 wu, 20 min continuous at 168–175, 2 cd (~7) · Little Strength PM |
+| Fri 6 | 5 easy + 4 strides |
+| Sat 7 | 13 long, easy, HR under 150. Test: 1 Precision electrolyte capsule per hour. Sweat-rate weigh-in |
+| Sun 8 | 6 easy |
+
+### W3 · Nov 9–15 · ~57 mi
+| Day | Session |
+|---|---|
+| Mon 9 | 6 easy · Big Strength (75 kg 3 × 8) |
+| Tue 10 | Atomic ~8 |
+| Wed 11 | 9 easy |
+| Thu 12 | **Tempo:** 2 wu, 2 × 15 min at 168–175 with 2 min jog, 2 cd (~8) · Little Strength |
+| Fri 13 | 5 easy + 4 strides |
+| Sat 14 | 14 long, easy, last 6 strides |
+| Sun 15 | 7 easy |
+
+### W4 · Nov 16–22 · ~53 mi
+| Day | Session |
+|---|---|
+| Mon 16 | 6 easy · Big Strength (80 kg 3 × 8) |
+| Tue 17 | Atomic, 5k-specific (ask for 1000s or 400s at 5:40) ~8 |
+| Wed 18 | 8 easy |
+| Thu 19 | **Tempo:** 2 wu, 25 min continuous at 168–175, 2 cd (~7) · Little Strength |
+| Fri 20 | 5 easy + strides |
+| Sat 21 | 12 long, easy, with 3 mi at half-marathon effort (HR 165–170) in the middle |
+| Sun 22 | 7 easy |
+
+### W5 · Nov 23–29 · Highland Park race week · ~38 mi
+| Day | Session |
+|---|---|
+| Mon 23 | 5 easy · strength upper body and core only |
+| Tue 24 | Atomic: warm-up, 6 × 400 at 5k pace (82–84 s at altitude) with 90 s jog, cool-down (~6). Fly to Chicago after, or Wed |
+| Wed 25 | 4 easy + 4 strides, sea level |
+| **Thu 26** | **Highland Park Turkey Trot 5k.** 2 mi warm-up with strides, Adios Pro 4 + KT tape, caffeine 200 mg 60 min pre. Go out at 5:25, hold 5:28, last 800 all in. Sub-17. |
+| Fri 27 | 4 easy |
+| Sat 28 | 10 easy |
+| Sun 29 | 6 easy |
+
+## Phase 2 — marathon build (Nov 30 – Jan 31), outline
+- **Dec:** 58 / 62 / 66 / 52 (down week Dec 21–27). Long runs 15, 16, 18, 14 with marathon-pace blocks starting at 4 mi and growing by 2 each week. Tempo Thursdays 30–40 min. Deadlift 90–100 kg 4 × 5 from Nov 30, 105–115 4 × 4 from Dec 14.
+- **Jan:** 66 / 70 / 70 / 56 (down week Jan 18–24). Long runs 20, 22, 20 with 8–10 mi at marathon pace; one 16 with 10 at MP as the dress rehearsal Jan 31. Deadlift 115–120 4 × 3, then maintain 105.
+- **Lab VO2max and lactate test early November; chest strap by then; Precision sweat test the same week.**
+
+## Phase 3 — taper (Feb 1–21)
+Same Bosquet shape that worked: 70 → 50 → 35 → race, intensity kept, strength to upper/core on Feb 8, carb load Feb 19–20, famotidine, Adios Pro 4. Cramp protocol and tested electrolytes on the race card.
