@@ -79,10 +79,25 @@ Standing rules: HR is the governor, pace is the readout. Tue 5:45 PM and Thu 6:1
 | Sat 28 | 10 easy |
 | Sun 29 | 6 easy |
 
-## Phase 2 — marathon build (Nov 30 – Jan 31), outline
-- **Dec:** 58 / 62 / 66 / 52 (down week Dec 21–27). Long runs 15, 16, 18, 14 with marathon-pace blocks starting at 4 mi and growing by 2 each week. Tempo Thursdays 30–40 min. Deadlift 90–100 kg 4 × 5 from Nov 30, 105–115 4 × 4 from Dec 14.
-- **Jan:** 66 / 70 / 70 / 56 (down week Jan 18–24). Long runs 20, 22, 20 with 8–10 mi at marathon pace; one 16 with 10 at MP as the dress rehearsal Jan 31. Deadlift 115–120 4 × 3, then maintain 105.
-- **Lab VO2max and lactate test early November; chest strap by then; Precision sweat test the same week.**
+## Phase 2 — marathon build to 75 (Nov 30 – Feb 7)
+
+Target peak **76 mi/wk in January**, reached by the 10% rule with a down week every fourth week. Three hard days a week and no more: Tuesday (track in November, threshold intervals or steady from December), Thursday tempo (30–40 min), Saturday long with marathon-pace blocks. Everything else under 140. **Doubles from December:** Monday and Wednesday are 6 AM + 4 PM easy, never one long easy run.
+
+| Week | Miles | Long run | Marathon-pace work (6:45 at altitude, HR 160–168) | Deadlift |
+|---|---|---|---|---|
+| Nov 30 | 60 | 15 | 4 at MP | 90–100 kg 4 × 5 |
+| Dec 7 | 66 | 16 | 6 at MP | |
+| Dec 14 | 70 | 18 | 2 × 4 at MP | 105–115 4 × 4 |
+| Dec 21 | 56 | 14 | down week, easy | |
+| Dec 28 | 74 | 20 | 8 at MP | |
+| Jan 4 | 76 | 22 | 10 at MP | 115–120 4 × 3 |
+| Jan 11 | 76 | 18 | 2 × 6 at MP | |
+| Jan 18 | 60 | 14 | down week, easy | maintain 105 |
+| Jan 25 | 72 | 20 | **12 at MP — dress rehearsal, race fuel, race shoes** | |
+| Feb 1 | 60 | 16 | 6 at MP | taper begins Feb 8 |
+
+Tempo Thursdays: 30 min continuous (Dec), 2 × 20 (mid-Dec), 40 min continuous (Jan). Tuesday from December: 5 × 1 mi at threshold or 8 steady at 6:50–7:00, whichever the coach's session is closer to.
+Tools: Maurten 320 in the bottles on every MP long run from Dec 7; Precision capsules 1/h; sweat-rate weigh-ins Nov 7 and Jan 9; pickle-juice trial Dec 28. Lab VO2max and lactate test early November; chest strap by then; Precision sweat test the same week.
 
 ## Phase 3 — taper (Feb 1–21)
-Same Bosquet shape that worked: 70 → 50 → 35 → race, intensity kept, strength to upper/core on Feb 8, carb load Feb 19–20, famotidine, Adios Pro 4. Cramp protocol and tested electrolytes on the race card.
+Same Bosquet shape that worked: 60 → 45 → 30 → race, intensity kept, strength to upper/core on Feb 8, carb load Feb 19–20, famotidine, Adios Pro 4. Cramp protocol and tested electrolytes on the race card.
