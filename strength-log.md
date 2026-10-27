@@ -17,6 +17,7 @@ Scale: 2 = light PT, 4 = normal Thursday, 5–6 = normal Monday, 7 = a heavy Mon
 | Fri Oct 16 | Back PT, very light | 15 | 2 | — | — | — | 30 | — | est.; no single-leg deadlifts, no Bulgarians |
 | Thu Oct 22 | Mobility (hotel gym, Moab) | 12 | 2 | 79 | — | — | 24 | — | swings, bridges, bands, ankle rocks, stretches; watch left running 1:14 |
 | Fri Oct 23 | Mobility + Back PT (Moab) | 15 | 2 | 92 | — | — | 30 | — | watch ran 38 min |
+| Mon Oct 26 | Upper Body + Back PT | 40 | 3 | — | — | — | 120 | — | post-race; no leg loading |
 
 \* assumed, confirm or correct.
 
@@ -24,6 +25,7 @@ Scale: 2 = light PT, 4 = normal Thursday, 5–6 = normal Monday, 7 = a heavy Mon
 
 | Week | Sessions | Strength load | Running load (COROS) | Notes |
 |---|---|---|---|---|
+| Oct 26–Nov 1 | 1 | 120 | | recovery week; Big Strength restarts Nov 2 |
 | Oct 19–25 | 2 logged | 54 | | race week; Mon upper/core, Back PT daily, mobility only |
 | Oct 12–18 | 5 | 346 | | taper week 1. Thu 15 Little Strength skipped (flat day); very light PT Fri 16 instead |
 | Oct 5–11 | 4 so far | 681 so far | | last hard week; Boreas Sun |
