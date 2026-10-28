@@ -32,7 +32,7 @@ Standing rules: HR is the governor, pace is the readout. Tue 5:45 PM and Thu 6:1
 | Wed 28 | 5 easy, flat, under 140. **Adductor test:** silent the whole way and the next morning = Thursday is on |
 | Thu 29 | Atomic Track Club, 6:15 AM — full session if the leg passed Wednesday, else warm-up and cool-down only (~7) |
 | Fri 30 | 5 easy + 4 strides |
-| Sat 31 | 10 easy |
+| Sat 31 | **Ten Mile rec path, Frisco → Copper cabin and back** (`oct31-tenmile-frisco-copper.gpx`): 15.7 mi, +860/−850 ft, 9,100–10,000 ft, paved path, 8 mi gently up (1–4%) then 8 down. Easy, HR under 150, expect 8:45–9:30 going up at that altitude and let the way back come to you. Go only if the adductor is quiet through Thursday and Friday; if it talks at any point, turn around. Longer than the planned 10, accepted because it is flat-grade pavement at easy effort and the only long run before Big Strength restarts. |
 | Sun 1 | 6 easy |
 
 ### W2 · Nov 2–8 · ~52 mi
