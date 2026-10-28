@@ -28,7 +28,7 @@ Standing rules: HR is the governor, pace is the readout. Tue 5:45 PM and Thu 6:1
 | Day | Session |
 |---|---|
 | Mon 26 | off |
-| Tue 27 | off |
+| Tue 27 | **DONE (not planned):** Atomic abbreviated: 2 wu, 800 at 5:52, 1200 at 5:45, 2 × 400 at 6:09/5:51, 800 at 5:56, 400 at 5:52, cool-down. 6.3 mi, HR 146. Felt good; adductor quiet. |
 | Wed 28 | 5 easy, flat, under 140. **Adductor test:** silent the whole way and the next morning = Thursday is on |
 | Thu 29 | Atomic Track Club, 6:15 AM — full session if the leg passed Wednesday, else warm-up and cool-down only (~7) |
 | Fri 30 | 5 easy + 4 strides |
