@@ -35,7 +35,7 @@ Standing rules: HR is the governor, pace is the readout. Tue 5:45 PM and Thu 6:1
 | Sat 31 | **Ten Mile rec path, Frisco → Copper cabin and back** (`oct31-tenmile-frisco-copper.gpx`): 15.7 mi, +860/−850 ft, 9,100–10,000 ft, paved path, 8 mi gently up (1–4%) then 8 down. Easy, HR under 150, expect 8:45–9:30 going up at that altitude and let the way back come to you. Go only if the adductor is quiet through Thursday and Friday; if it talks at any point, turn around. Longer than the planned 10, accepted because it is flat-grade pavement at easy effort and the only long run before Big Strength restarts. |
 | Sun 1 | 6 easy |
 
-### W2 · Nov 2–8 · ~52 mi
+### W2 · Nov 2–8 · ~52 mi planned, **36 mi logged**
 | Day | Session |
 |---|---|
 | Mon 2 | 6 easy · **Big Strength** restarts: trap-bar deadlift 70 kg 3 × 8, squat moderate, calves, bands, Copenhagen planks, core |
@@ -46,7 +46,7 @@ Standing rules: HR is the governor, pace is the readout. Tue 5:45 PM and Thu 6:1
 | Sat 7 | 13 long, easy, HR under 150. Test: 1 Precision electrolyte capsule per hour. Sweat-rate weigh-in |
 | Sun 8 | 6 easy |
 
-### W3 · Nov 9–15 · ~57 mi
+### W3 · Nov 9–15 · ~57 mi planned, **20 mi logged** (watch HR and recording unreliable; no run logged Nov 12–14)
 | Day | Session |
 |---|---|
 | Mon 9 | 6 easy · Big Strength (75 kg 3 × 8) |

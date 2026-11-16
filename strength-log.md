@@ -18,6 +18,11 @@ Scale: 2 = light PT, 4 = normal Thursday, 5–6 = normal Monday, 7 = a heavy Mon
 | Thu Oct 22 | Mobility (hotel gym, Moab) | 12 | 2 | 79 | — | — | 24 | — | swings, bridges, bands, ankle rocks, stretches; watch left running 1:14 |
 | Fri Oct 23 | Mobility + Back PT (Moab) | 15 | 2 | 92 | — | — | 30 | — | watch ran 38 min |
 | Mon Oct 26 | Upper Body + Back PT | 40 | 3 | — | — | — | 120 | — | post-race; no leg loading |
+| Thu Oct 29 | Run Strength | 53 | 27 | 90 | — | 4* | 212 | — | COROS strength entry; RPE estimated |
+| Mon Nov 2 | Strength (short) | 16 | 5 | 92 | — | 4* | 64 | — | abbreviated session; RPE estimated |
+| Mon Nov 9 | Strength | 71 | 13 | 83 | — | 5* | 355 | — | RPE estimated; lifts not reported |
+| Wed Nov 11 | Strength | 31 | 13 | 78 | — | 3* | 93 | — | RPE estimated |
+| Sun Nov 15 | Strength | 131 | 4 | 81 | — | — | not scored | — | watch left running; real duration unknown |
 
 \* assumed, confirm or correct.
 
@@ -25,7 +30,9 @@ Scale: 2 = light PT, 4 = normal Thursday, 5–6 = normal Monday, 7 = a heavy Mon
 
 | Week | Sessions | Strength load | Running load (COROS) | Notes |
 |---|---|---|---|---|
-| Oct 26–Nov 1 | 1 | 120 | | recovery week; Big Strength restarts Nov 2 |
+| Nov 9–15 | 3 | 448 + unscored | | RPE estimated |
+| Nov 2–8 | 1 | 64 | | restart week was thin |
+| Oct 26–Nov 1 | 2 | 332 | | recovery week; Big Strength restarts Nov 2 |
 | Oct 19–25 | 2 logged | 54 | | race week; Mon upper/core, Back PT daily, mobility only |
 | Oct 12–18 | 5 | 346 | | taper week 1. Thu 15 Little Strength skipped (flat day); very light PT Fri 16 instead |
 | Oct 5–11 | 4 so far | 681 so far | | last hard week; Boreas Sun |
